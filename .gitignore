@@ -1,0 +1,6 @@
+*.*
+node_modules
+LICENSE
+27png
+!README.md
+!/.gitignore
