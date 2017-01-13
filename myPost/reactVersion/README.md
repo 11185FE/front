@@ -1,10 +1,13 @@
 # 邮印象hybrid App - 主题馆、订单等模块
 截止日期：无限期  
-修改日期：2016-12-30  
+修改日期：2017-01-04
 进度：100%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-01-04
+  * 修复我的客户加载bug by yerenming
+
 - 2016-12-30
   * 完成营销员系统开发 by yerenming guxionghong
 

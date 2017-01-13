@@ -1,14 +1,23 @@
 # 新春拜年
 截止日期：2017-02-04  
-修改日期：2016-12-29  
-进度：30%  
+修改日期：2017-01-13  
+进度：100%  
 参与人员：chenzhaolong huangshuyi
 
 
+## 修改记录
+
+- 1
+说明文案补充
+
+
+
 ## 开发记录
-功能  huangshuyi
-静态页面完成 chenzhaolong
-框架完成 chenzhaolong
+开发完成  
+功能2 chenzhaolong  
+功能  huangshuyi  
+静态页面完成 chenzhaolong  
+框架完成 chenzhaolong  
 
 ## 文档
 - 接口
