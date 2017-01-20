@@ -1,15 +1,35 @@
 # 官微 2.0
 截止日期：2017-01-26  
-修改日期：2017-01-13  
-进度：70%  
+修改日期：2017-01-20  
+进度：71%  
 参与人员：chenzhaolong lixiaolong huangshuyi  
 
 ## 修改记录 
+- 3
+通过js设置字体，以兼容全部分辨率。
+
+- 2
+菜单栏字体大小  
+温馨提示细分  
+银行产品筛选选中后显示选中的内容  
+修复:理财产品风险级别筛选结果有误，无论筛选什么都显示中等级别  
+国债产品不需要产看更多按钮，删除>
+
 - 1
 修改活动轮播高度  
 
 
+
+
 ## 开发记录
+
+- 2017-01-20
+邮政模块 100% lixiaolong  
+银行模块 100%  chenzhaolong  
+热门活动 100% chenzhaolong  
+客服模块 90%  lixiaolong
+网点模块 15%  chenzhaolong lixiaolong huangshuyi  
+寄递服务 15%  huangshuyi  
 
 - 2017-01-03
 邮政模块 100% lixiaolong  

@@ -1,10 +1,18 @@
 # 邮印象-定制模块
 截止日期：无限期  
-修改日期：2017-01-12
+修改日期：2017-01-19
 进度：100%  
 参与人员：chenzhaolong guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-01-19
+  * 添加四套明信片模板 by guxionghong
+
+- 2017-01-18
+  * 修改重庆抽奖活动，新增链接至app明信片制作页功能 by guxionghong
+  * 新增重庆活动说明页 by guxionghong
+  * 修复多套模板问题 by guxionghong
+
 - 2017-01-12
   * 添加8套台历模板 by guxionghong
 
