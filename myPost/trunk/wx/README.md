@@ -1,10 +1,16 @@
 # 邮印象-微信版
 截止日期：无限期  
-修改日期：2017-02-08
+修改日期：2017-02-14
 进度：50%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-02-14
+  * 多联级选择组件开发 by guxionghong
+
+- 2017-02-13
+  * 收货地址列表页面开发 by guxionghong
+
 - 2017-02-08
   * 进行订单支付页面开发 by guxionghong
 
