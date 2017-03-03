@@ -7,6 +7,7 @@
 ## 修改记录
 - 2017-03-03
   * 提交产品测试
+  * 移除 promise 依赖包，改用jq自带Deferred，修改上拉加载方法判断逻辑 by guxionghong
   * 获奖名单功能、我的获奖功能、我的作品功能、填写地址功能 by liuhaoxing
   * 接入分享功能、图片预览功能，增加底部tabs by guxionghong
 
