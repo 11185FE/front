@@ -1,13 +1,23 @@
 # 邮印象-微信版
-截止日期：无限期  
-修改日期：2017-02-28
+修改日期：2017-03-07
 进度：50%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
-- 2017-02-28
-  * 调试微信支付及jssdk功能 by guxionghong
-  
+- 2017-03-08
+  * 修改微信支付方式，使用 weixinbridge 接入支付（jssdk的方式在安卓端出错） by guxionghong
+  * 
+
+- 2017-03-07
+  * 接通微信支付，确认订单页、订单详情页接入支付功能 by guxionghong
+  * 主题馆首页banner新增多图、链接及定时轮播功能 by guxionghong
+  * 新增使用帮助页面 by guxionghong
+
+- 2017-03-06
+  * 修复主题馆列表不可滚动bug by guxionghong
+  * 我的页面接入用户基础信息、营销员系统、订单、购物车、收藏、优惠券、地址等功能 by guxionghong
+  * 接入微信分享，Img组件添加是否调用微信图片预览参数 by guxionghong
+
 - 2017-02-27
   * 主题馆列表添加全局搜索功能及修复渲染出错bug by guxionghong
 

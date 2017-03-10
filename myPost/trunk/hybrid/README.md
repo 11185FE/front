@@ -2,9 +2,27 @@
 截止日期：无限期  
 修改日期：2017-02-22
 进度：100%  
-参与人员：chenzhaolong guxionghong zhangyuan yerenming  
+参与人员：chenzhaolong guxionghong zhangyuan yerenming liuhaoxing 
 
 ## 修改记录
+- 2017-03-09
+  * 添加照片书（kids）模版 by zhangyuan
+  
+- 2017-03-08
+  * 添加同学录（相聚）模版 by liuhaoxing
+  * 添加照片书（sweetday）模版 by liuhaoxing
+  * 添加同学录（活动）模版 by zhangyuan
+
+- 2017-03-07
+  * 添加照片书（樱花季）模版 by liuhaoxing
+  * 添加照片书（我的家人）模版 by liuhaoxing
+  * 添加照片书（四季如歌）模版 by zhangyuan
+  * 添加照片书（我们在一起）模版 by zhangyuan
+
+- 2017-03-06
+  * 添加照片书（不只是自己）模版 by liuhaoxing
+  * 添加照片书（sports)模版 by zhangyuan
+
 - 2017-02-22
   * 修改项目打包命令 by guxionghong
   * 添加商品详情页，数量不足时不可下单、添加购物车功能 by guxionghong

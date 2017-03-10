@@ -1,10 +1,23 @@
-# 邮印象-微信版
-- 截止日期：2017-03-06  
-- 修改日期：2017-03-03
-- 进度：90%  
+# 官微活动 —— 最美女神
+- 修改日期：2017-03-07
+- 进度：100%  
 - 参与人员：liuhaoxing guxionghong
 
 ## 修改记录
+- 2017-03-07
+  * 上生产
+  * 修改所有奖品列表样式 by guxionghong
+  * 修改上传后文案及跳转url by guxionghong
+
+- 2017-03-06
+  * 修改微信图片选择质量及ios webkit内核图片预览方式 by guxionghong
+  * 修改首页背景样式 by guxionghong
+  * 修改活动说明 by guxionghong
+  * 首页新增三个入口链接 by guxionghong
+  * 修改分享地址错误问题 by guxionghong
+  * 修复我的作品图片无法正常显示bug by guxionghong
+  * 修复作品详情分享按钮及遮罩布局错乱bug by guxionghong
+
 - 2017-03-03
   * 提交产品测试
   * 移除 promise 依赖包，改用jq自带Deferred，修改上拉加载方法判断逻辑 by guxionghong
