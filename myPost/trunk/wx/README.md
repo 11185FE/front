@@ -1,12 +1,22 @@
 # 邮印象-微信版
-修改日期：2017-03-07
+修改日期：2017-03-10
 进度：50%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-03-10
+  * 修复n多个bug
+  * 修复购物车下单页，出现购物车已被清空报错bug  guxionghong
+  * 修改地址编辑页面逻辑 guxionghong
+
+- 2017-03-09
+  * 完成定制图片编辑页面开发 guxionghong
+  * 修复主题馆列表图片显示错误bug guxionghong
+
 - 2017-03-08
   * 修改微信支付方式，使用 weixinbridge 接入支付（jssdk的方式在安卓端出错） by guxionghong
-  * 
+  * 修改订单确认页优惠券领取逻辑 by guxionghong
+  * 修复搜索非法字符出现的bug by guxionghong
 
 - 2017-03-07
   * 接通微信支付，确认订单页、订单详情页接入支付功能 by guxionghong

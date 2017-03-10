@@ -1,14 +1,18 @@
 # 邮印象-Hybrid版
-截止日期：无限期  
-修改日期：2017-02-22
+修改日期：2017-03-10
 进度：100%  
-参与人员：chenzhaolong guxionghong zhangyuan yerenming liuhaoxing 
+参与人员：chenzhaolong guxionghong zhangyuan yerenming liuhaoxing
 
 ## 修改记录
+- 2017-03-10
+  * 订单详情页添加支付方式选择 by guxionghong
+  * 修复分享明信片作品无法查看bug by guxionghong
+
 - 2017-03-09
   * 添加照片书（kids）模版 by zhangyuan
-  
+
 - 2017-03-08
+  * 修改多套同学录文字换行样式 by guxionghong
   * 添加同学录（相聚）模版 by liuhaoxing
   * 添加照片书（sweetday）模版 by liuhaoxing
   * 添加同学录（活动）模版 by zhangyuan

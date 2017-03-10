@@ -5,6 +5,9 @@
 参与人员：chenzhaolong lixiaolong huangshuyi  
 
 ## 修改记录 
+- 2017/3/10
+直通网点提交产品 chenzhaolong
+
 - 2017/3/3
 图片轮播加白点提示，修改直通网点bug huangshuyi
 修改热门活动bug chenzhaolong
