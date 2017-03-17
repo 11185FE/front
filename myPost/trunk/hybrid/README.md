@@ -1,9 +1,12 @@
 # 邮印象-Hybrid版
-修改日期：2017-03-10
+修改日期：2017-03-17
 进度：100%  
 参与人员：chenzhaolong guxionghong zhangyuan yerenming liuhaoxing
 
 ## 修改记录
+- 2017-03-17
+  * 修改项目打包方式、明信片预览方式 by guxionghong
+  
 - 2017-03-10
   * 订单详情页添加支付方式选择 by guxionghong
   * 修复分享明信片作品无法查看bug by guxionghong

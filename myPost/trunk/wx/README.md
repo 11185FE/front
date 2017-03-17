@@ -1,9 +1,27 @@
 # 邮印象-微信版
-修改日期：2017-03-10
+修改日期：2017-03-17
 进度：50%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-03-17
+  * 修改网络交互层逻辑，兼容blob文件上传、主动编码等 by guxionghong
+  * 新增多明信片预览，照片书、同学录、台历预板式预览页 by guxionghong
+
+- 2017-03-16
+  * 新增Touch通用组件 by guxionghong
+  * 新增引导页通用组件 by guxionghong
+
+- 2017-3-15
+  * 完成明信片定制全流程 by guxionghong
+
+- 2017-3-14
+  * 新增编辑状态监测hoc组件 by guxionghong
+
+- 2017-3-13
+  * 微信第一版上线生产环境，修复bug by guxionghong
+  * 修改营销员绑定页面分享方式 by guxionghong
+
 - 2017-03-10
   * 修复n多个bug
   * 修复购物车下单页，出现购物车已被清空报错bug  guxionghong
