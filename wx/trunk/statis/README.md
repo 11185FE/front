@@ -1,9 +1,12 @@
 # 官微-营销粉丝统计
-修改日期：2017-03-15  
-进度：1%  
+修改日期：2017-03-24  
+进度：90%  
 参与人员：chenzhaolong lixiaolong huangshuyi  
 
 ## 修改记录 
+-2017-03-24
+修改粉丝页面样式和接口 lixiaolong
+
 - 2017-03-15
 粉丝页面 lixiaolong
 构建项目 chenzhaolong
@@ -17,10 +20,5 @@ https://405rdc.axshare.com
 
 
 - 接口文档
-http://www.doyoteam.com:8082/showdoc-master/index.php?s=/home/item/show&item_id=1
-dg-
-
-http://www.doyoteam.com:8082/showdoc-master/index.php?s=/4  
-
-
+http://www.doyoteam.com:8082/showdoc-master/index.php?s=/1&page_id=341
 

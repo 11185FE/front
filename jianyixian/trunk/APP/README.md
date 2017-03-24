@@ -1,10 +1,14 @@
 # 简易险-APP
 - 截止日期：2017-03-31
-- 修改日期：2017-03-17  
-- 进度：50%  
-- 参与人员：lixiaolong yerenming chenshuyi zhangyuan liuhaoxing 
+- 修改日期：2017-03-24  
+- 进度：90%  
+- 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
+- 2017-03-24
+* 对接后端接口 by lixiaolong zhangyuan liuhaoxing
+* 调整页面样式 by lixiaolong zhangyuan liuhaoxing
+
 - 2017-03-17
 * 编写“产品列表-首页”页面 by lixiaolong
 * 编写“产品列表-筛选”页面 by liuhaoxing

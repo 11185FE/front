@@ -1,5 +1,4 @@
-# 邮印象hybrid App - 主题馆、订单等模块
-截止日期：无限期  
+# 主题邮局hybrid App - 主题馆、订单等模块
 修改日期：2017-02-08
 进度：100%  
 参与人员：guxionghong zhangyuan yerenming  
