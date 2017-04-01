@@ -1,10 +1,14 @@
 # 简易险-APP
 - 截止日期：2017-03-31
-- 修改日期：2017-03-24  
-- 进度：90%  
+- 修改日期：2017-04-01  
+- 进度：100%  
 - 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
+- 2017-04-01
+* 测试反馈修改 by lixiaolong zhangyuan liuhaoxin
+* 编写订单确定、订单购买 by lixiaolong
+
 - 2017-03-24
 * 对接后端接口 by lixiaolong zhangyuan liuhaoxing
 * 调整页面样式 by lixiaolong zhangyuan liuhaoxing
@@ -31,6 +35,7 @@
   * 编写架构 by lixiaolong
   
 ## 接口文档
+http://www.doyoteam.com:8083/h5page/main/main.html#/home
 
 
 
