@@ -1,9 +1,21 @@
 # 主题邮局-微信版
-修改日期：2017-04-01
+修改日期：2017-04-07
 进度：70%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-04-07
+  * 改用按需加载加载页面 guxionghong
+
+- 2017-04-06
+  * 部署上线
+  * 增加404页面 guxionghong
+
+- 2017-04-05
+  * 去除微信版手机绑定功能，调试对应接口 guxionghong
+  * 我的页面新增地址管理功能 guxionghong
+  * 图片裁剪工具添加旋转功能 guxionghong
+
 - 2017-04-01
   * 完成照片冲印定制 guxionghong
 

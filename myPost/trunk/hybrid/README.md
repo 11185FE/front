@@ -1,10 +1,14 @@
 # 主题邮局-Hybrid版
-修改日期：2017-03-20
+修改日期：2017-04-05
 进度：100%  
 参与人员：chenzhaolong guxionghong zhangyuan yerenming liuhaoxing
 
 ## 修改记录
-- 2017-03-20
+- 2017-04-05
+  * 修改免责声明、使用帮助文案 by guxionghong
+  * 修复大量模板问题 by guxionghong
+
+- 2017-03-20enm
   * 订单详情新增微信支付功能 by guxionghong
 
 - 2017-03-17

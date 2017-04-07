@@ -4,6 +4,8 @@
 - 参与人员：chenzhaolong liuhaoxing
 
 ## 修改记录
+- 2017-04-7
+* 修改测试反馈的问题 liuhaoxing
 - 2017-03-16
 修整兼容至ie6 chenzhaolong
 弹窗类、表单类 chenzhaolong
@@ -14,6 +16,8 @@
   
 ## 接口文档
 http://j9n9z9.axshare.com
+
+
 
 
 

@@ -1,9 +1,12 @@
 # 官微-环游中国
-修改日期：2017-03-28  
+修改日期：2017-04-05
 进度：1%  
 参与人员：chenzhaolong guxionghong wanglong
 
 ## 修改记录
+- 2017-04-05
+* 排行榜页面功能 guxionghong
+
 - 2017-03-28
 * 分享页功能 guxionghong
 
