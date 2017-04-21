@@ -1,10 +1,16 @@
 # 官微 2.0
 截止日期：2017-01-26  
-修改日期：2017-03-28  
+修改日期：2017-04-21  
 进度：71%  
 参与人员：chenzhaolong lixiaolong huangshuyi  
 
 ## 修改记录 
+- 2017/4/21
+修改资费查询逻辑 lixiaolong
+
+- 2017/4/17
+修改直通网点网点列表样式风格 lixiaolong
+
 - 2017/3/30
 修改直通网点 chenzhaolong
 

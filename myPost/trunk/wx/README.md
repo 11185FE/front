@@ -1,9 +1,20 @@
 # 主题邮局-微信版
-修改日期：2017-04-07
+修改日期：2017-04-13
 进度：70%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-04-19
+  * 修改订单列表页面，新增多作品下单展示情况 guxionghong
+  * 订单确认页新增多作品下单逻辑 guxionghong
+  * 修改明信片保存接入环邮中国逻辑，打通两个项目数据交互 guxionghong
+
+- 2017-04-13
+  * 修改明信片下单逻辑，包括封面图片上传、去除地址填写、添加环邮中国交互等 guxionghong
+  * 修复我的优惠券数据错误bug guxionghong
+  * 修复安卓机器无法正确读写图片类型bug guxionghong
+  * 部署上线
+
 - 2017-04-07
   * 改用按需加载加载页面 guxionghong
 
