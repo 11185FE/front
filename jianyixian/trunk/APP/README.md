@@ -1,12 +1,13 @@
 # 简易险-APP
 - 截止日期：2017-03-31
-- 修改日期：2017-04-21  
+- 修改日期：2017-04-28  
 - 进度：100%  
 - 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
-- 2017-04-21
-* 增加营销系统全部8个页面 by lixiaolong
+- 2017-04-28
+* 开发营销系统页面、对接后台接口 by lixiaolong
+* 增加前端生成页面二维码
 
 - 2017-04-14
 * 增加城市定位 by lixiaolong

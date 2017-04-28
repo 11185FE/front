@@ -72,3 +72,8 @@
 * 根据测试反馈优化直通网点管理系统 yerenming
 
 
+- 2017-4-28
+* 兼容IE8 yerenming
+* 根据测试回馈修正bug yerenming
+* 根据需求修改业务逻辑 yerenming
+
