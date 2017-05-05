@@ -1,9 +1,12 @@
 # 大微信--后台页面  
-修改日期：2017-04-28
+修改日期：2017-5-5
 进度：100%  
 参与人员：zhangyuan, liuhaoxing
 
 ## 修改记录
+- 2017-5-5
+    * 修改样式by liuhaoxing
+    
 - 2017-4-28
     * 修改抽奖后台部分页面问题by zhangyuan
 
@@ -41,6 +44,8 @@
 - 2017-03-03
   * 手机端页面bug修改by zhangyuan
   * pc端页面bug修改by liuhaoxing
+
+
 
 
 
