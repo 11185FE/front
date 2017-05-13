@@ -1,9 +1,14 @@
 # 大微信-活动-报名
-- 修改日期：2017-04-28  
+- 修改日期：2017-05-13 
 - 进度：100%  
 - 参与人员：liuhaoxing 
 
 ## 修改记录
+- 2017-05-13
+* 新增微信分享 by liuhaoxing
+* 对接新增接口 by liuhaoxing
+* 修改测试bug by liuhaoxing
+
 - 2017-04-27
 * 新增报名成功页面首页入口 by liuhaoxing
 

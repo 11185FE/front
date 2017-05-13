@@ -1,11 +1,11 @@
 # 大微信活动-抽奖
-修改日期：2017-05-05  
+修改日期：2017-05-13  
 进度：100%  
 参与人员：chenzhaolong huangshuyi
 
 ## 修改记录 
-- 2017-05-05   
-根据反馈修改bug huangshuyi   
+- 2017-05-13   
+增加分享功能，根据反馈修改bug chenzhaolong huangshuyi   
 
 - 2017-04-28   
 九宫格抽奖、我的奖品、地址填写 huangshuyi   

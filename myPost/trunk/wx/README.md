@@ -1,9 +1,16 @@
 # 主题邮局-微信版
-修改日期：2017-04-24
+修改日期：2017-05-13
 进度：70%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-05-13
+  * 配合服务端做全接口改动 guxionghong
+
+- 2017-05-11
+  * 添加母亲节下单逻辑 guxionghong
+  * 修改环邮中国下单逻辑 guxionghong
+
 - 2017-04-24
   * 修改订单列表页面，新增多作品下单展示情况 guxionghong
   * 订单确认页新增多作品下单逻辑 guxionghong
