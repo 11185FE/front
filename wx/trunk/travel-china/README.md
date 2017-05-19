@@ -1,9 +1,12 @@
 # 官微-环邮中国 1期
-修改日期：2017-05-12
-进度：90%  
+修改日期：2017-05-18
+进度：100%  
 参与人员：chenzhaolong guxionghong wanglong
 
 ## 修改记录
+- 2017-05-18
+* 完成一期部署上线 guxionghong
+
 - 2017-05-12
 * 修复大量bug guxionghong
 * 添加栏目分享页 guxionghong
