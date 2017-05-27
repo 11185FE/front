@@ -1,10 +1,15 @@
 # 简易险-APP
 - 截止日期：2017-03-31
-- 修改日期：2017-05-19  
+- 修改日期：2017-05-27  
 - 进度：100%  
 - 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
+- 2017-05-27
+* 修改测试反馈 bug by lixiaolong
+* 修改营销功能、修改二维码
+* 增加分享功能
+
 - 2017-05-19
 * 修改测试反馈bug by lixiaolong
 * 增加营销功能
