@@ -1,6 +1,6 @@
 # 官微-后台管理系统
 截止日期：   
-修改日期：2017-4-5
+修改日期：2017-4-21
 进度：100%   
 参与人员：yerenming liuhaoxing  
 
@@ -65,3 +65,19 @@
 * 工作人员列表添加排序功能 yerenming
 * 网点活动管理添加排序功能 yerenming
 * 网点商品管理添加排序功能 yerenming
+
+- 2017-4-21
+* 登录页面改版 yerenming
+* 新建活动页面 根据需求调整展示逻辑 yerenming
+* 根据测试反馈优化直通网点管理系统 yerenming
+
+
+- 2017-4-28
+* 兼容IE8 yerenming
+* 根据测试回馈修正bug yerenming
+* 根据需求修改业务逻辑 yerenming
+
+- 2017-5-5
+* 管理员编辑页面添加地区级联关系 yerenming
+* 根据相关需求修改业务逻辑 yerenming
+

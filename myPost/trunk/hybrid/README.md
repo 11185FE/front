@@ -1,9 +1,12 @@
 # 主题邮局-Hybrid版
-修改日期：2017-04-05
+修改日期：2017-04-24
 进度：100%  
 参与人员：chenzhaolong guxionghong zhangyuan yerenming liuhaoxing
 
 ## 修改记录
+- 2017-04-024
+  * 新增61套明信片模板 guxionghong
+  
 - 2017-04-05
   * 修改免责声明、使用帮助文案 by guxionghong
   * 修复大量模板问题 by guxionghong

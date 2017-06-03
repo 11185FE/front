@@ -1,9 +1,33 @@
-# 官微-环游中国
-修改日期：2017-04-05
-进度：1%  
+# 官微-环邮中国 1期
+修改日期：2017-05-18
+进度：100%  
 参与人员：chenzhaolong guxionghong wanglong
 
 ## 修改记录
+- 2017-05-18
+* 完成一期部署上线 guxionghong
+
+- 2017-05-12
+* 修复大量bug guxionghong
+* 添加栏目分享页 guxionghong
+
+- 2017-05-04
+* 修复大量bug guxionghong
+
+- 2017-04-26
+* 完成第一期开发，提交测试 guxionghong
+
+- 2017-04-21
+* 完成明信片集、城市详情页面改造 guxionghong
+* 新增城市详情页地址二维码图片生成代码 guxionghong
+
+- 2017-04-19
+* 联调主题邮局完成明信片部分交互 guxionghong
+
+- 2017-04-12
+* 完成明信片集页面 guxionghong
+* 修改城市详情页、首页需求 guxionghong
+
 - 2017-04-05
 * 排行榜页面功能 guxionghong
 

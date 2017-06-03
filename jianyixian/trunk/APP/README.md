@@ -1,10 +1,34 @@
 # 简易险-APP
 - 截止日期：2017-03-31
-- 修改日期：2017-04-14  
+- 修改日期：2017-06-03  
 - 进度：100%  
 - 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
+- 2017-05-27
+* 修改支付页面无法支付的逻辑 bug by lixiaolong
+
+- 2017-05-27
+* 修改首页、产品列表和筛选页面样式与逻辑 bug by lixiaolong
+
+- 2017-05-27
+* 修改测试反馈 bug by lixiaolong
+* 修改营销功能、修改二维码
+* 增加分享功能
+
+- 2017-05-19
+* 修改测试反馈bug by lixiaolong
+* 增加营销功能
+
+- 2017-05-13
+* 整合投保页面到简易险项目中 by lixiaolong
+* 修改简易险营销系统页面逻辑并对接后台接口
+* 修改投保页面项目的框架、目录，异步加载JS
+
+- 2017-04-28
+* 开发营销系统页面、对接后台接口 by lixiaolong
+* 增加前端生成页面二维码
+
 - 2017-04-14
 * 增加城市定位 by lixiaolong
 * 修改APP登录配置、修改弹窗信息组件 by lixiaolong
