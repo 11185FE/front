@@ -1,9 +1,12 @@
 # 官微-营销粉丝统计
-修改日期：2017-04-14  
-进度：90%  
+修改日期：2017-06-03  
+进度：100%  
 参与人员：chenzhaolong lixiaolong huangshuyi  
 
 ## 修改记录 
+- 2017-06-03
+增加新页面、修改测试反馈bug by lixiaolong
+
 - 2017-04-14
 增加分享功能 by lixiaolong
 

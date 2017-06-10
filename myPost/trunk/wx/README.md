@@ -1,9 +1,29 @@
 # 主题邮局-微信版
-修改日期：2017-05-27
-进度：70%  
+修改日期：2017-06-10
+进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-06-10
+  * 接通oss图片上传接口 guxionghong
+  * 更新多个接口数据改造 guxionghong
+
+- 2017-06-08
+  * 新增T恤抽奖抽奖页 guxionghong
+
+- 2017-06-06
+  * 重构明信片制作流程 guxionghong
+  * 增加定制流程分享逻辑 guxionghong
+  * 新增我的作品页面 guxionghong
+
+- 2017-06-05
+  * 作品下单页新增数量选择 guxionghong
+
+- 2017-06-03
+  * 新增T恤制作流程 guxionghong
+  * 订单相关页面修改兼容新产品 guxionghong
+  * 新增作品预览页 guxionghong
+
 - 2017-05-26
   * 对接多个新版本接口，接通照片书新流程 guxionghong
 

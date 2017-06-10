@@ -12,3 +12,6 @@
 * 完成照片书详情页面翻页效果开发 yerenming
 
 
+- 2017-6-3
+* 优化照片书业务代码 yerenming
+* 我的订单页面开发 yerenming
