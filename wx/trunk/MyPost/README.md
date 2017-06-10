@@ -15,3 +15,8 @@
 - 2017-6-3
 * 优化照片书业务代码 yerenming
 * 我的订单页面开发 yerenming
+
+- 2017-6-10
+* 完成我的订单查看流程开发 yerenming
+* 完成我的作品查看流程开发 yerenming
+* 优化业务代码 yerenming
