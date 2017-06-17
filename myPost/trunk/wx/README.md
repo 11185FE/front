@@ -1,9 +1,26 @@
 # 主题邮局-微信版
-修改日期：2017-06-10
+修改日期：2017-06-17
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-06-17
+  * 新增台历定制流程 guxionghong
+  * oss服务经费有问题，项目改为兼容双版本图片服务 guxionghong
+
+- 2017-06-16
+  * 新增照片冲印定制流程 guxionghong
+
+- 2017-06-15
+  * 新增摆件、摆台定制流程 guxionghong
+
+- 2017-06-14
+  * 新增照片书、杂志定制流程 guxionghong
+  * 修复safari使用oss跨域bug guxionghong
+
+- 2017-06-12
+  * 新增定制产品分类页 guxionghong
+
 - 2017-06-10
   * 接通oss图片上传接口 guxionghong
   * 更新多个接口数据改造 guxionghong

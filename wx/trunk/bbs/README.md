@@ -1,9 +1,12 @@
 # 微信讨论组
-修改日期：2017-06-10  
+修改日期：2017-06-17  
 进度：100%  
 参与人员：chenzhaolong huangshuyi
 
 ## 修改记录
+- 2017-06-14
+详情页预览页面 huangshuyi
+
 - 2017-06-08
 修复ios图片上传bug chenzhaolong
 最热帖子筛选，禁言提示,修复其余反馈的bug huangshuyi

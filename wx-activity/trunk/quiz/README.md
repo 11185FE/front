@@ -11,5 +11,4 @@
 
 ## 资料
 
-http://www.doyoteam.com:8082/showdoc-master/index.php?s=/home/item/show/item_id/8
-
+http://www.doyoteam.com:8082/showdoc-master/index.php?s=/4&page_id=577

@@ -1,10 +1,16 @@
-# 简易险-APP
+# 简易险-H5
 - 截止日期：2017-03-31
-- 修改日期：2017-06-10  
+- 修改日期：2017-06-17  
 - 进度：100%  
 - 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
+- 2017-06-17
+* 增加自定义alert插件 by lixiaolong
+* 非定位页面取消定位
+* 修改产品详情页面样式以及逻辑
+* 增加定位超时的提示
+
 - 2017-06-10
 * 修改APP后退返回机制 bug by lixiaolong
 * 增加中华联合8款产品的投保页面
