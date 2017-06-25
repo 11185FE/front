@@ -5,6 +5,9 @@
 参与人员：chenzhaolong lixiaolong huangshuyi  
 
 ## 修改记录 
+- 2017/6/22
+修改国内包裹资费查询样式
+
 - 2017/4/28
 直通网点地址接口修改 lixiaolong
 修改直通网点测试反馈bug

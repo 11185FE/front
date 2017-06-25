@@ -1,9 +1,25 @@
 # 微信讨论组
-修改日期：2017-05-27  
-进度：90%  
+修改日期：2017-06-24  
+进度：100%  
 参与人员：chenzhaolong huangshuyi
 
 ## 修改记录
+- 2017-06-23
+修复测试反馈的bug chenzhaolong huangshuyi
+
+- 2017-06-19
+帖子编辑页内容输入框功能修改，改用div模拟输入框 huangshuyi
+
+- 2017-06-14
+详情页预览页面 huangshuyi
+
+- 2017-06-08
+修复ios图片上传bug chenzhaolong
+最热帖子筛选，禁言提示,修复其余反馈的bug huangshuyi
+
+- 2017-06-06
+修复安卓机图片滑动卡顿bug huangshuyi
+
 - 2017-06-03
 修改@功能，评论区图片预览功能，表情功能 huangshuyi
 
