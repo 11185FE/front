@@ -1,9 +1,15 @@
 # 微信讨论组
-修改日期：2017-06-17  
+修改日期：2017-06-24  
 进度：100%  
 参与人员：chenzhaolong huangshuyi
 
 ## 修改记录
+- 2017-06-23
+修复测试反馈的bug chenzhaolong huangshuyi
+
+- 2017-06-19
+帖子编辑页内容输入框功能修改，改用div模拟输入框 huangshuyi
+
 - 2017-06-14
 详情页预览页面 huangshuyi
 

@@ -1,9 +1,26 @@
 # 主题邮局-微信版
-修改日期：2017-06-17
+修改日期：2017-06-29
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-06-29
+  * 上线生产环境，修复bug guxionghong
+  
+- 2017-06-27
+  * 新增定制首页 guxionghong
+  * 新增模板详情页 guxionghong
+  * 修改板式列表展示逻辑 guxionghong
+
+- 2017-06-24
+  * 修复反馈bug guxionghong
+
+- 2017-06-21
+  * 完成新版我的作品页面功能 guxionghong
+
+- 2017-06-20
+  * 新增两款马克杯定制流程 guxionghong
+
 - 2017-06-17
   * 新增台历定制流程 guxionghong
   * oss服务经费有问题，项目改为兼容双版本图片服务 guxionghong

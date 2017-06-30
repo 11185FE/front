@@ -1,6 +1,6 @@
 # 邮印象-微信小程序
 截止日期：
-修改日期：2017-6-17
+修改日期：2017-6-30
 进度：30% 
 参与人员：yerenming
 
@@ -25,3 +25,18 @@
 * 杂志定制流程开发 yerenming
 * T-Shirt定制流程开发 yerenming
 * 优化业务代码 yerenming
+
+- 2017-6-19
+* 整合定制流程代码 yerenming
+* 完成T-Shirt定制流程开发 yerenming
+* 完成杂志定制流程开发 yerenming
+
+- 2017-6-20
+* 完成海报定制流程开发 yerenming
+* 完成摆件定制流程开发 yerenming
+
+- 2017-6-24
+* 完成 摆台、台历、海报 定制流程开发 yerenming
+
+- 2017-6-30
+* 修正编辑页面初始化时候闪现问题 yerenming

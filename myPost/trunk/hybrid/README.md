@@ -1,12 +1,16 @@
 # 主题邮局-Hybrid版
-修改日期：2017-04-24
+修改日期：2017-06-27
 进度：100%  
 参与人员：chenzhaolong guxionghong zhangyuan yerenming liuhaoxing
 
 ## 修改记录
-- 2017-04-024
+- 2017-06-27
+  * 修复营销员页面bug guxionghong
+  * 修复多个接口逻辑，修复同学录口令页面bug guxionghong
+
+- 2017-04-24
   * 新增61套明信片模板 guxionghong
-  
+
 - 2017-04-05
   * 修改免责声明、使用帮助文案 by guxionghong
   * 修复大量模板问题 by guxionghong
