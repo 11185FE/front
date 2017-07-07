@@ -1,9 +1,11 @@
 # 优阅中国
-修改日期：2017-05-12  
+修改日期：2017-07-03  
 进度：100%  
 参与人员：chenzhaolong  huangshuyi  
 
 ## 修改记录 
+- 2017-07-03
+添加‘没有更多’ chenzhaolong
 
 - 2017-05-12
 添加新闻页 chenzhaolong

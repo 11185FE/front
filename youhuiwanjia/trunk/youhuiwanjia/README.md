@@ -1,12 +1,36 @@
 # 邮惠万家-h5
-- 修改日期：2017-06-30
+- 修改日期：2017-07-07
 - 进度：30% 
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-07-07
+  * 完善筛选组件逻辑、增加网点列表组件、完善仿京东地址组件 by lixiaolong
+  * 对接直通网点接口、完善直通网点各个页面逻辑 by lixiaolong
+  * 完成selsect组件 by guxionghong
+  * 完成附近商家页面逻辑 by zhangyuan
+  
+- 2017-07-06
+* 完成页面懒加载过渡组件 by guxionghong
+
+- 2017-07-05
+  * 完成重设密码页面逻辑  by guxionghong
+  * 完成修改(新增)密码页面逻辑，商家首页地图  by zhangyuan
+
+- 2017-07-04
+  * 新增密码加密方法 by guxionghong
+  * 完成登录页面、注册页面逻辑  by guxionghong
+  * 完成我的首页、修改身份信息页面逻辑  by zhangyuan
+  * 完成订单列表逻辑 by yerenming
+
+- 2017-07-03
+  * 完成短信验证码、图形验证码功能组件 by guxionghong
+  * 完成商家分类页面逻辑  by zhangyuan
+
 - 2017-06-30
   * 完成折扣详情页面逻辑  by zhangyuan
   * 编写直通网点页面，增加地址组件、筛选组件 by lixiaolong
+
 - 2017-06-29
   * 完成选择城市、商家详情、商家分店页面逻辑  by zhangyuan
   * 完成商品活动、超值抢购、发现首页列表页面逻辑 by guxionghong
@@ -46,3 +70,4 @@
 http://118.178.185.211:12305/yhwjweb/document/yhwjweb.xml
 
 优先使用：http://118.178.185.211:12305/yhwjweb/doc.html
+接口修改：http://118.178.185.211:12305/yhwjweb/document/modify.html

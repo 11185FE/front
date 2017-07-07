@@ -1,12 +1,15 @@
 # 主题邮局-微信版
-修改日期：2017-06-29
+修改日期：2017-07-05
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-07-05
+  * 新增福利卡制作流程 guxionghong
+  
 - 2017-06-29
   * 上线生产环境，修复bug guxionghong
-  
+
 - 2017-06-27
   * 新增定制首页 guxionghong
   * 新增模板详情页 guxionghong

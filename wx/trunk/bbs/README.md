@@ -1,9 +1,17 @@
 # 微信讨论组
-修改日期：2017-06-24  
+修改日期：2017-07-07  
 进度：100%  
 参与人员：chenzhaolong huangshuyi
 
 ## 修改记录
+
+- 2017-07-05
+修改评论区评论换行显示问题、评论框显示方式、修改字数限制问题  huangshuyi
+详情页新增评论临时保存功能 huangshuyi
+
+- 2017-07-04
+调整所有页面字体大小 huangshuyi
+
 - 2017-06-23
 修复测试反馈的bug chenzhaolong huangshuyi
 
