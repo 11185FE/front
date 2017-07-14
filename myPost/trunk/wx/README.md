@@ -1,12 +1,24 @@
 # 主题邮局-微信版
-修改日期：2017-07-05
+修改日期：2017-07-14
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-07-14
+  * 开发微信版新的制作页 guxionghong
+
+- 2017-07-13
+  * 开发新版我的作品页面 guxionghong
+
+- 2017-07-12
+  * 修改多个页面，统一四端体验 guxionghong
+
+- 2017-07-11
+  * 新增lomo卡定制流程 guxionghong
+
 - 2017-07-05
   * 新增福利卡制作流程 guxionghong
-  
+
 - 2017-06-29
   * 上线生产环境，修复bug guxionghong
 

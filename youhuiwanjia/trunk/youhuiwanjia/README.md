@@ -1,15 +1,40 @@
 # 邮惠万家-h5
-- 修改日期：2017-07-07
-- 进度：30% 
+- 修改日期：2017-07-14
+- 进度：30%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-07-14
+  * 修改列表组件,对接砸金蛋游戏总人数 by zhangyuan
+- 2017-07-13
+  * 完善路由页面route.vue by lixiaolong
+  * 添加sessionStorage管理类 by yerenming
+  * 完成支付流程 by yerenming
+  * 完成转盘活动页面逻辑 by guxionghong
+  * 添加原生select地址选择组件 by guxionghong
+
+- 2017-07-12
+  * 完成砸金蛋活动页面逻辑 by zhangyuan
+
+- 2017-07-11
+  * 完成砸金蛋活动静态页面 by zhangyuan
+  * 完成转盘活动静态页面 by guxionghong
+  * 完善用户登录校验及疯狂抢购页 by guxionghong
+
+- 2017-07-10
+  * 完成幸运转盘组件 by guxionghong
+  * 完善评价组件 by yerenming
+  * 完成计数组件 by yerenming
+  * 完成订单详情逻辑、订单评价逻辑、下单逻辑 by yerenming
+  * 完成地图驾车路线规划 by zhangyuan
+
 - 2017-07-07
   * 完善筛选组件逻辑、增加网点列表组件、完善仿京东地址组件 by lixiaolong
   * 对接直通网点接口、完善直通网点各个页面逻辑 by lixiaolong
+  * 完善modeal组件、增加直通网点活动详情和服务详情页面
   * 完成selsect组件 by guxionghong
   * 完成附近商家页面逻辑 by zhangyuan
-  
+
 - 2017-07-06
 * 完成页面懒加载过渡组件 by guxionghong
 
