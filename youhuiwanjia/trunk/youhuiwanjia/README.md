@@ -5,6 +5,8 @@
 
 ## 修改记录
 - 2017-07-14
+  * 完成原生js支付付款 by yerenming
+- 2017-07-14
   * 修改列表组件,对接砸金蛋游戏总人数 by zhangyuan
 - 2017-07-13
   * 完善路由页面route.vue by lixiaolong

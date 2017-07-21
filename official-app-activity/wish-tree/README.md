@@ -20,7 +20,8 @@
 * 完成首页、填写愿望静态页面 by zhangyuan
 
 ## 资料
-- [接口文档]()
+- 原型（http://lfo62t.axshare.com/#g=1&p=愿望树)
+- [接口文档](http://118.178.185.211:12304/cpappweb/document/cpappweb.xml)
 
 
 
