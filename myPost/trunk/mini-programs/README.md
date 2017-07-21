@@ -4,6 +4,7 @@
 进度：30% 
 参与人员：yerenming
 
+修改记录
 - 2017-7-20
 * 修正微信官方升级导致canvas截图失败问题 by yerenming
 

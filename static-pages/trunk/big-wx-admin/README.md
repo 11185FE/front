@@ -1,9 +1,14 @@
 # 大微信--后台页面  
-修改日期：2017-7-14
+修改日期：2017-7-21
 进度：100%  
 参与人员：zhangyuan, liuhaoxing
 
 ## 修改记录
+- 2017-7-21
+    * 公众号建设情况页面新增弹窗 by liuhaoxing
+    * 修改反馈的样式问题 by liuhaoxing
+    * 异动监控页面布局修改 by liuhaoxing
+    
 - 2017-7-13
     * 异动监控页面 by liuhaoxing
     * 公众号建设情况 by liuhaoxing
