@@ -5,6 +5,13 @@
 参与人员：yerenming
 
 修改记录
+- 2017-7-25
+* 完成马克杯制作-封面截取逻辑优化 by yerenming
+
+- 2017-7-24
+* 完成我的作品页面 删除作品逻辑 by yerenming
+* 优化裁剪算法，最短边优先，图片增加边界判断 by yerenming
+
 - 2017-7-20
 * 修正微信官方升级导致canvas截图失败问题 by yerenming
 

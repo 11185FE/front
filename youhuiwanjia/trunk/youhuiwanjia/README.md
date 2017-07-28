@@ -1,9 +1,26 @@
 # 邮惠万家-h5
-- 修改日期：2017-07-14
+- 修改日期：2017-07-28
 - 进度：30%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+
+
+- 2017-07-27
+  * 修改登录页面、活动商家页面逻辑 guxionghong
+  * 完成商家搜索页面逻辑 guxionghong
+  * 新增 image-input 组件 guxionghong
+  * 完成意见反馈页面逻辑 guxionghong
+  * 完成我的二维码页面 guxionghong
+  * 增加员工中心页面 by lixiaolong
+  * 完善我的收藏页面 by lixiaolong
+
+- 2017-07-26
+  * 增加webpack热加载功能 by lixiaolong
+
+- 2017-07-25
+  * 订单列表、订单详情、下单增加字段payPrice实际支付总价、point消耗积分 by yerenming
+
 - 2017-07-14
   * 完成原生js支付付款 by yerenming
 - 2017-07-14

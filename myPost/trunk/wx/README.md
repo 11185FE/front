@@ -1,12 +1,24 @@
 # 主题邮局-微信版
-修改日期：2017-07-21
+修改日期：2017-07-28
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-07-28
+  * 对接环邮中国 guxionghong
+
+- 2017-07-26
+  * 尝试各种方式修复安卓多页制作bug guxionghong
+
+- 2017-07-25
+  * 完成新版多页定制流程 guxionghong
+
+- 2017-07-24
+  * 修复明信片制作流程bug guxionghong
+
 - 2017-07-21
   * 对接邮乐T恤活动页 guxionghong
-  
+
 - 2017-07-18
   * 完成新版作品列表 guxionghong
   * 完成新版作品预览页 guxionghong

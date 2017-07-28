@@ -1,10 +1,16 @@
 # 简易险-H5
 - 截止日期：2017-03-31
-- 修改日期：2017-07-21  
+- 修改日期：2017-07-28  
 - 进度：100%  
 - 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
+- 2017-07-28
+* 增加、修改投保页面 by lixiaolong
+* 增加热加载功能
+* 增加职业分类选择页面
+* 增加营销员的申请机构修改页面
+
 - 2017-07-17
 * 修改投保页面字段名称 by lixiaolong
 - 2017-07-18
@@ -15,7 +21,7 @@
 - 2017-07-20
 * 完善loading机制、修改测试反馈页面bug
 - 2017-07-21
-* 修改webpack配置，增加manifest（js文件映射）文件
+* 修改webpack配置，增加manifest（所有文件的chunkFileName映射）文件
 
 - 2017-07-14
 * 投保页面增加两款中华的保险产品、修改产品详情页面 by lixiaolong
