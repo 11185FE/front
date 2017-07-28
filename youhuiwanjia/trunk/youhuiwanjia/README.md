@@ -14,9 +14,14 @@
   * 完成我的二维码页面 guxionghong
   * 增加员工中心页面 by lixiaolong
   * 完善我的收藏页面 by lixiaolong
+  * 修改商家详情页面逻辑  by zhangyuan
+  * 修改产品详情页面逻辑 by zhangyuan
+  * 增加我的活动页面逻辑 by zhangyuan
+  * 下单增加积分计算 by yerenming
 
 - 2017-07-26
   * 增加webpack热加载功能 by lixiaolong
+  * 调整样式，接入APP隐藏头部  by zhangyuan
 
 - 2017-07-25
   * 订单列表、订单详情、下单增加字段payPrice实际支付总价、point消耗积分 by yerenming
