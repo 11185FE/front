@@ -4,8 +4,10 @@
 参与人员：zhangyuan, liuhaoxing
 
 ## 修改记录
-- 2017-7-28
+- 2017-8-04
     * 修改弹窗样式问题 by liuhaoxing
+- 2017-8-04
+    * 百度编辑器上传问题 by liuhaoxing
     
 - 2017-7-28
     * 修改产品反馈问题 by liuhaoxing
