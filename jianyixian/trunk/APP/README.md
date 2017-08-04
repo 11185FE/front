@@ -5,6 +5,10 @@
 - 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
+- 2017-08-01
+* 增加投保页面 by lixiaolong
+* 给产品组件中的图片加载加上动画
+
 - 2017-07-28
 * 增加、修改投保页面 by lixiaolong
 * 增加热加载功能

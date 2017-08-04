@@ -4,7 +4,28 @@
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-08-4
+  * 个人信息页面添加职业、性别选择逻辑 guxionghong
+  * 查看优惠券页面逻辑，满减买单逻辑 yerenming
+  * 修改bug,领券中心静态页 zhangyuan
 
+- 2017-08-3
+  * 修复倒计时组件bug及修改倒计时新规则 guxionghong
+  * 启用第三发非原生微信支付、修正获取定位导致白屏问题、修改订单相关逻辑 yerenming
+  * 商品详情，订单详情接入积分和等级，调整页面样式  zhangyuan
+
+- 2017-08-02
+  * 完成大转盘新需求逻辑 guxionghong
+  * 编写员工中心页面、帮助与反馈页面 lixiaolong
+  * 增加个页面分享，帮助页样式 by zhangyuan
+
+- 2017-08-1
+  * 增加坐标系转码、根据浏览器区分微信地图与百度地图 yerenming
+  * 我的等级页面，我的积分页面逻辑  by zhangyuan
+
+- 2017-07-31
+  * 订单详情页修改页面结构、增加导航跳转，评价组件样式修改 yerenming
+  * 新增优惠券列表页面逻辑 zhangyuan
 
 - 2017-07-27
   * 修改登录页面、活动商家页面逻辑 guxionghong
@@ -120,3 +141,5 @@ http://118.178.185.211:12305/yhwjweb/document/yhwjweb.xml
 
 优先使用：http://118.178.185.211:12305/yhwjweb/doc.html
 接口修改：http://118.178.185.211:12305/yhwjweb/document/modify.html
+优惠买单测试商家id:5cd18b0a652c4033bd219597b8bb50eb
+产品优惠买单测试ID：a6bb3002aa8a4dd0a523d5c3ab43cd84
