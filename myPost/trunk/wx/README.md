@@ -1,9 +1,23 @@
 # 主题邮局-微信版
-修改日期：2017-07-28
+修改日期：2017-08-09
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-08-09
+  * 新增台历制作field1字段 guxionghong
+  * 新增多页作品继续制作功能 guxionghong
+
+- 2017-08-07
+  * 修改裁剪规则，实现300dpi裁图效果 guxionghong
+  * 添加邮乐T恤活动错误拦截逻辑 guxionghong
+
+- 2017-08-03
+  * 对接邮乐app，修复大量安卓端兼容问题 guxionghong
+
+- 2017-08-01
+  * 研究新版编辑方式安卓崩溃问题 guxionghong
+
 - 2017-07-28
   * 对接环邮中国 guxionghong
 

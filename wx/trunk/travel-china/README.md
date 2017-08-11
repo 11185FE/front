@@ -1,9 +1,13 @@
 # 官微-环邮中国 1期
-修改日期：2017-07-28
+修改日期：2017-08-11
 进度：100%  
 参与人员：chenzhaolong guxionghong wanglong
 
 ## 修改记录
+- 2017-08-11
+* 修改分享页活动介绍逻辑 guxionghong
+* 添加城市解锁页引导动画 guxionghong
+
 - 2017-07-28
 * 对接新版邮印象明信片部分 guxionghong
 

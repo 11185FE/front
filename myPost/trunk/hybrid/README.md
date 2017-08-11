@@ -1,9 +1,12 @@
 # 主题邮局-Hybrid版
-修改日期：2017-07-19
+修改日期：2017-08-11
 进度：100%  
 参与人员：chenzhaolong guxionghong zhangyuan yerenming liuhaoxing
 
 ## 修改记录
+- 2017-08-11
+  * 修复订单列表图片显示错误bug guxionghong
+  
 - 2017-07-19
   * 新增广东抽奖活动页 guxionghong
 

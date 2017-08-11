@@ -1,10 +1,13 @@
 # 优阅中国
-修改日期：2017-08-04  
+修改日期：2017-08-11  
 修改日期：2017-05-12  
 进度：100%  
 参与人员：chenzhaolong  huangshuyi  
 
 ## 修改记录 
+- 2017-08-11
+绑定客户经理页面 默认信息修改 huangshuyi 
+
 - 2017-08-02
 解决页面提示token参数错误问题 huangshuyi
 添加apiTimestamp时间戳 huangshuyi

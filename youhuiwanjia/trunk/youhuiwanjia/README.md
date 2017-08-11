@@ -1,9 +1,33 @@
 # 邮惠万家-h5
-- 修改日期：2017-08-4
+- 修改日期：2017-08-11
 - 进度：30%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-08-11
+* 完善员工中心页面 by lixiaolong
+* 商家详情优惠券，领券中心页面逻辑 by zhangyuan
+* 根据测试反馈修改bug yerenming
+
+- 2017-08-10
+* 修复banner图、转盘活动bug yerenming
+* 选择城市页面逻辑修改，定位城市可点击操作 by zhangyuan
+* 调整商家首页，发现首页，我的首页页面ui by zhangyuan
+
+- 2017-08-09
+* 反馈页面逻辑 yerenming
+
+- 2017-08-08
+* 修改我的页面头像上传逻辑 guxionghong
+* 修改image组件逻辑，加载过的图片不再有淡入效果 guxionghong
+* 订单价格改为后台计算、counter组件min判断、bug修复 yerenming
+* 404,500页面逻辑 by zhangyuan
+* 调整my组件的逻辑，新增check-login-link组件 by zhangyuan
+
+- 2017-08-07
+  * 修改router逻辑，新增左右滑动page切换效果 guxionghong
+  * 处理定位失败与不允许定位情况 yerenming
+
 - 2017-08-4
   * 个人信息页面添加职业、性别选择逻辑 guxionghong
   * 查看优惠券页面逻辑，满减买单逻辑 yerenming
