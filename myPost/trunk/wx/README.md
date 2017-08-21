@@ -1,9 +1,14 @@
 # 主题邮局-微信版
-修改日期：2017-08-09
+修改日期：2017-08-16
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-08-16
+  * 修改打包构建程序代码 guxionghong
+  * 修复ios全局input出错问题 guxionghong
+  * 修复台历作品保存顺序bug  guxionghong
+
 - 2017-08-09
   * 新增台历制作field1字段 guxionghong
   * 新增多页作品继续制作功能 guxionghong

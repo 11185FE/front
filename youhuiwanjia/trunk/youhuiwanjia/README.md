@@ -1,9 +1,26 @@
 # 邮惠万家-h5
-- 修改日期：2017-08-11
+- 修改日期：2017-08-18
 - 进度：30%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-08-18
+* 修复多个bug及页面细节 guxionghong
+* 微调样式，修复退出登录后商家列表数据错误问题、分类列表数据显示不正确问题 by zhangyuan
+* 增加网点预约 by lixiaolong
+- 2017-08-17
+* 增加商城静态页面，修复切换城市修改积分信息的bug样式 by zhangyuan
+* 新增砸金蛋消耗积分提示，修改分享 by zhangyuan
+- 2017-08-16
+* 修改title,调整线条颜色，修改商家列表样式 by zhangyuan
+* 处理地址搜索input无法聚焦问题 by yerenming
+
+- 2017-08-15
+* 网点专区导航，文字过长省略更多优惠 by zhangyuan
+
+- 2017-08-14
+* 修正地图定位不准确问题、兼容一元购、积分超额下单提示、订单价格计算、修复bug by yerenming
+
 - 2017-08-11
 * 完善员工中心页面 by lixiaolong
 * 商家详情优惠券，领券中心页面逻辑 by zhangyuan
