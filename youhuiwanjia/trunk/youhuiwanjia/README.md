@@ -1,9 +1,23 @@
 # 邮惠万家-h5
-- 修改日期：2017-08-18
+- 修改日期：2017-08-25
 - 进度：30%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-08-24
+* 修复身份认证参数错误，领券中心优惠券已领bug zhangyuan
+* image组件修复src更新，style没有重计算bug，修复意见反馈字数bug guxionghong
+* 增加已取消订单相关逻辑，根据需求修改部分bug yerenming
+- 2017-08-23
+* 修改我的等级页面,身份认证提示 zhangyuan
+* 修改评价组件记分规则 yerenming
+- 2017-08-22
+* 修复登录页、mx4机型活动转盘、产品活动列表距离bug  guxionghong
+* 增加页面回退，订单列表回显功能 yerenming
+- 2017-08-21
+* 增加附近网点页面 lixiaolong
+- 2017-08-21
+* 修复bug,接入8个会员等级 zhangyuan
 - 2017-08-18
 * 修复多个bug及页面细节 guxionghong
 * 微调样式，修复退出登录后商家列表数据错误问题、分类列表数据显示不正确问题 by zhangyuan

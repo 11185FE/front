@@ -1,9 +1,24 @@
 # 主题邮局-微信版
-修改日期：2017-08-16
+修改日期：2017-08-25
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-08-25
+  * 修复台历日期重影问题 guxionghong
+  * 新增福利卡领取页面 guxionghong
+
+- 2017-08-24
+  * 所有页面分享新增营销员信息 guxionghong
+  * 新增通过营销员分享页面，自动绑定及自动进行订单归属功能 guxionghong
+
+- 2017-08-23
+  * 福利卡产品详情页新增自定义金额功能 guxionghong
+
+- 2017-08-22
+  * 产品详情页新增产品切换功能 guxionghong
+  * 修改台历默认年份 guxionghong
+
 - 2017-08-16
   * 修改打包构建程序代码 guxionghong
   * 修复ios全局input出错问题 guxionghong
