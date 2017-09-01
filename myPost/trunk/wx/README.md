@@ -1,9 +1,23 @@
 # 主题邮局-微信版
-修改日期：2017-08-25
+修改日期：2017-09-01
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-09-01
+  * 调试作品购物车相关接口 guxionghong
+  
+- 2017-08-31
+  * 修改我的作品页面逻辑 guxionghong
+
+- 2017-08-30
+  * 修复营销员id分享逻辑bug  guxionghong
+
+- 2017-08-28
+  * 修改多页制作显示逻辑 guxionghong
+  * 修改我的作品排列样式 guxionghong
+  * 作品订单购买数量限制上调至999 guxionghong
+
 - 2017-08-25
   * 修复台历日期重影问题 guxionghong
   * 新增福利卡领取页面 guxionghong

@@ -1,9 +1,28 @@
 # 邮惠万家-h5
-- 修改日期：2017-08-25
+- 修改日期：2017-09-01
 - 进度：30%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-09-01
+* 修复 vue-router query 标识符添加出错问题 guxionghong
+* 修复图片验证码验证错误问题 guxionghong
+* 新增创维活动详情页逻辑 zhangyuan
+* 兼容微信jssdk获取失败的定位 yerenming
+- 2017-08-31
+* 优惠券领取用户未认证逻辑修改  zhangyuan
+* 新增创维活动详情页逻辑 zhangyuan
+* 修复订单消息样式问题 yerenming
+- 2017-08-30
+* 修改密码管理页面逻辑 zhangyuan
+* 修正android部分文字布局中问题 yerenming
+- 2017-08-29
+* 新增商家巡检，商家巡检记录页 zhangyuan
+- 2017-08-28
+* 增加日历选择组件 vue-calendar by lxl
+* 修改大转盘活动积分提示逻辑 guxionghong
+* 新增三重礼活动详情页，创维活动详情页 zhangyuan
+
 - 2017-08-24
 * 修复身份认证参数错误，领券中心优惠券已领bug zhangyuan
 * image组件修复src更新，style没有重计算bug，修复意见反馈字数bug guxionghong
@@ -193,7 +212,7 @@
 
 ## 接口文档
 http://118.178.185.211:12305/yhwjweb/document/yhwjweb.xml
-
+http://118.178.185.211:12305/yhwjapi/document/yhwjapi.xml
 优先使用：http://118.178.185.211:12305/yhwjweb/doc.html
 接口修改：http://118.178.185.211:12305/yhwjweb/document/modify.html
 优惠买单测试商家id:5cd18b0a652c4033bd219597b8bb50eb
