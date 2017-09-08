@@ -1,9 +1,27 @@
 # 主题邮局-微信版
-修改日期：2017-09-01
+修改日期：2017-09-08
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-09-08
+  * 新增用户信息修改页 guxionghong
+  * 修复购物车bug、修改福利卡领取显示逻辑 guxionghong
+
+- 2017-09-07
+  * 修改分享页登录逻辑 guxionghong
+  * 路由跳转新增 `replace` 功能，更新多处路由逻辑 guxionghong
+  * 修复定制显示错误bug  guxionghong
+
+- 2017-09-06
+  * 完成定制购物车相关页面功能 guxionghong
+
+- 2017-09-05
+  * 修复自动绑定分享营销员信息逻辑 guxionghog
+
+- 2017-09-04
+  * 作品分享时不需要检测登录 guxionghong
+  
 - 2017-09-01
   * 调试作品购物车相关接口 guxionghong
   

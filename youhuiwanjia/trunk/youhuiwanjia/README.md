@@ -1,9 +1,19 @@
 # 邮惠万家-h5
-- 修改日期：2017-09-01
+- 修改日期：2017-09-08
 - 进度：30%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-09-08
+* 修改商家详情页逻辑，新增推荐商品页逻辑，商品详情页逻辑  zhangyuan
+* 下单页面添加不参与优惠金额逻辑 yerenming
+- 2017-09-07
+* 付款页面 开启微信原生支付 yerenming
+
+* - 2017-09-05
+* 新增推荐商品、商品详情静态页，修改商家详情页 zhangyuan
+- 2017-09-04
+* 修改分享文案 zhangyuan
 - 2017-09-01
 * 修复 vue-router query 标识符添加出错问题 guxionghong
 * 修复图片验证码验证错误问题 guxionghong

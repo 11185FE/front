@@ -1,10 +1,13 @@
 # 简易险-H5
 - 截止日期：2017-03-31
-- 修改日期：2017-09-01
+- 修改日期：2017-09-08
 - 进度：100%  
 - 参与人员：lixiaolong yerenming huangshuyi zhangyuan liuhaoxing 
 
 ## 修改记录
+- 2017-09-08
+* 增加/修改投保页面 by lixiaolong
+
 - 2017-09-01
 * 增加产品宣传图功能 by lixiaolong
 * 增加大地公司的投保页面
