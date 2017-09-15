@@ -1,9 +1,23 @@
 # 主题邮局-微信版
-修改日期：2017-09-08
+修改日期：2017-09-15
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-09-15
+  * 重构Native基础交互库 guxionghong
+  
+- 2017-09-13
+  * 重构基础网络库 guxionghong
+
+- 2017-09-12
+  * 修复安卓部分手机图片展示错误bug guxionghong
+
+- 2017-09-11
+  * 修改购物车样式 guxionghong
+  * 修改我的作品提示逻辑 guxionghong
+  * 新增同学录限制下单逻辑 guxionghong
+
 - 2017-09-08
   * 新增用户信息修改页 guxionghong
   * 修复购物车bug、修改福利卡领取显示逻辑 guxionghong
