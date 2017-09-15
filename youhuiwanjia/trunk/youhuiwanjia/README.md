@@ -4,6 +4,10 @@
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-09-15
+* 增加不能使用积分的下单逻辑 yerenming
+- 2017-09-13
+* 新增三重礼首页，详情页，创维活动页面逻辑  zhangyuan
 - 2017-09-08
 * 修改商家详情页逻辑，新增推荐商品页逻辑，商品详情页逻辑  zhangyuan
 * 下单页面添加不参与优惠金额逻辑 yerenming
