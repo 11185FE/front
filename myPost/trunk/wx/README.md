@@ -1,9 +1,21 @@
 # 主题邮局-微信版
-修改日期：2017-09-15
+修改日期：2017-09-22
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-09-22
+  * 确认订单页面新增福利卡使用功能 guxionghong
+  * 新增优惠券兑换功能 guxionghong
+
+- 2017-09-21
+  * 新增我的福利卡页面 guxionghong
+- 2017-09-20
+  * 新增重新编辑我的作品 guxionghong
+
+- 2017-09-19
+  * 新增 作品详情 删除、分享、复制功能按钮 guxionghong
+  
 - 2017-09-15
   * 重构Native基础交互库 guxionghong
   
@@ -325,5 +337,6 @@
 - [readmine 地址](http://118.178.128.63:8030/projects/h5)
 
 
-- [接口文档](http://118.178.128.63:8030/projects/api/wiki)s
-s
+- [主题邮局 接口文档](http://118.178.128.63:8030/projects/api/wiki)
+
+- [邮印象 接口文档](http://118.178.128.63:8030/projects/mypost-assamblly/wiki/邮印象接口文档)

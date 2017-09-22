@@ -1,9 +1,13 @@
 # 邮惠万家-h5
-- 修改日期：2017-09-15
-- 进度：30%
+- 修改日期：2017-09-22
+- 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-09-22
+* 新增帮助与反馈联系客服功能  zhangyuan
+- 2017-09-21
+* 商家巡检做ios系统版本9的表单兼容，ios9不能识别form.name.value  zhangyuan
 - 2017-09-15
 * 增加不能使用积分的下单逻辑 yerenming
 * 新增三重礼列表页温馨提示逻辑  zhangyuan
