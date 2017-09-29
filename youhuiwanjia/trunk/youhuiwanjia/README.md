@@ -1,9 +1,12 @@
 # 邮惠万家-h5
-- 修改日期：2017-09-22
+- 修改日期：2017-09-29
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-09-26
+* 修改活动提示逻辑，分享可得抽奖机会的提示靠前  zhangyuan
+* 修复页面在pc客户端打不开的bug  zhangyuan
 - 2017-09-22
 * 新增帮助与反馈联系客服功能  zhangyuan
 - 2017-09-21

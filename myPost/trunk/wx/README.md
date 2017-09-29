@@ -1,15 +1,31 @@
 # 主题邮局-微信版
-修改日期：2017-09-22
+修改日期：2017-09-30
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming  
 
 ## 修改记录
+- 2017-09-29
+  * 接入 安卓 hybrid 版本 guxionghong
+  
+- 2017-09-27
+  * 修复版本迁移引起的主题馆商品相关bug guxionghong
+  * 接入 ios hybrid 版本 guxionghong
+
+- 2017-09-26
+  * 完善 native 交互代码 guxionghong
+  
+- 2017-09-25
+  * 修改明信片不可选数量（固定1）逻辑 guxionghong
+  * 新增福利卡下单最少10张逻辑 guxionghong
+  * 修改我的页面排版样式 guxionghong
+
 - 2017-09-22
   * 确认订单页面新增福利卡使用功能 guxionghong
   * 新增优惠券兑换功能 guxionghong
 
 - 2017-09-21
   * 新增我的福利卡页面 guxionghong
+  
 - 2017-09-20
   * 新增重新编辑我的作品 guxionghong
 
