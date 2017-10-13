@@ -1,23 +1,21 @@
-# 主题邮局- h5版
+# 邮印象 - h5版
 修改日期：2017-10-11
-进度：80%  
+进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2017-10-13
+  * 重构订单详情页面 guxionghong
+  * 重构订单确认页面 guxionghong
+  
+- 2017-10-12
+  * 重构订单列表页面 guxionghong
+
 - 2017-10-11
   * 新增免责声明页面及修改帮助页面文案 guxionghong
   
-- 2017-10-10
-  * 地址编辑页新增头栏功能 guxionghong
-  * 用户中心新增 我的收藏、待评价入口 guxionghong
-  * 屏蔽订单福利卡使用、我的福利卡功能 guxionghong
-  * 修复购物车数量选择bug guxionghong
-
 - 2017-10-09
-  * 创建 主题邮局 独立版本 guxionghong
-  * 修复主题馆商品页地址选择功能、购物车数量显示等问题 guxionghong
-  * 订单详情页新增支付方式选择功能 guxionghong
-  * 开通 app 内商品评论功能 guxionghong
+  * 创建 邮印象 独立版本 guxionghong
 
 - 2017-09-29
   * 接入 安卓 hybrid 版本 guxionghong
