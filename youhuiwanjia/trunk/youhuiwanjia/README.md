@@ -1,9 +1,17 @@
 # 邮惠万家-h5
-- 修改日期：2017-09-29
+- 修改日期：2017-10-20
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-09-26
+* 修改调整商品详情页，屏蔽优惠券，优惠买单及代金券样式逻辑改变  zhangyuan
+* - 2017-10-18
+* 删除积分、将用户等级修改为2个 zhangyuan
+- 2017-10-17
+* 修改登录、注册逻辑  zhangyuan
+- 2017-10-16
+* 修改登录、注册页面  zhangyuan
 - 2017-09-26
 * 修改活动提示逻辑，分享可得抽奖机会的提示靠前  zhangyuan
 * 修复页面在pc客户端打不开的bug  zhangyuan
@@ -239,6 +247,7 @@
 
 ## 接口文档
 http://118.178.185.211:12305/yhwjweb/document/yhwjweb.xml
+http://192.183.3.182:8080/yhwjapi/document/yhwjapi.xml
 http://118.178.185.211:12305/yhwjapi/document/yhwjapi.xml
 优先使用：http://118.178.185.211:12305/yhwjweb/doc.html
 接口修改：http://118.178.185.211:12305/yhwjweb/document/modify.html

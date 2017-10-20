@@ -1,13 +1,35 @@
 # 邮印象 - h5版
-修改日期：2017-10-11
+修改日期：2017-10-20
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2017-10-20
+  * 新增下载引导页 guxionghong
+  * 新增微信登录code重定向页面 guxionghong
+
+- 2017-10-19
+  * 新增同学录分享页面 guxionghong
+
+- 2017-10-18
+  * 排查解决生产环境图片服跨域bug guxionghong
+  * 多机器兼容性排查 guxionghong
+
+- 2017-10-17
+  * 修复大量bug，完成生产环境第一版上线 guxionghong
+  * 修复订单确认页优惠券选取bug  guxionghong
+
+- 2017-10-16
+  * 修复订单确认页购买数量切换bug guxionghong
+  * 修复微信无法登陆问题 guxionghong
+  * 修改订单列表按钮逻辑 guxionghong
+  * 修复分享遮罩点击穿透 bug guxionghong
+  * 添加删除订单功能 guxionghong
+
 - 2017-10-13
   * 重构订单详情页面 guxionghong
   * 重构订单确认页面 guxionghong
-  
+
 - 2017-10-12
   * 重构订单列表页面 guxionghong
 

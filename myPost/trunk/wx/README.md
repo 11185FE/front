@@ -1,9 +1,14 @@
 # 主题邮局- h5版
-修改日期：2017-10-11
+修改日期：2017-10-20
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2017-10-20
+  * 新增下载引导页 guxionghong
+  * 新增微信登录code重定向页面 guxionghong
+  * 接入 hybrid版 主题馆分享相关功能 guxionghong
+
 - 2017-10-11
   * 新增免责声明页面及修改帮助页面文案 guxionghong
   
