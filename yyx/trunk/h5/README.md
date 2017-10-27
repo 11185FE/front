@@ -1,9 +1,24 @@
 # 邮印象 - h5版
-修改日期：2017-10-20
+修改日期：2017-10-27
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2017-10-27
+  * 修复微信初次分享出错bug guxionghong
+  * 新增图片像素最低阈值判断提醒 guxionghong
+
+- 2017-10-25
+  * 新增错误日志统计功能 guxionghong
+  * 新增订单退款、物流查询、订单确认等功能 guxionghong
+  
+- 2017-10-24
+  * 新增使用帮助、免责声明页面 guxionghong
+  * 新增长图作品在窄屏手机适配性  guxionghong
+
+- 2017-10-23
+  * 修复多作品预览图片切换 bug guxionghong
+
 - 2017-10-20
   * 新增下载引导页 guxionghong
   * 新增微信登录code重定向页面 guxionghong
