@@ -1,9 +1,17 @@
 # 邮印象 - h5版
-修改日期：2017-10-27
+修改日期：2017-11-03
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2017-11-03
+  * 安卓微信版尝试采用微信sdk选图方式，优化内存使用 guxionghong
+
+- 2017-11-01
+  * 修改最低像素提醒逻辑 guxionghong
+  * 物流信息新增 xss 文本过滤 guxionghong
+  * 修改上传图片压缩限制值 guxionghong
+
 - 2017-10-27
   * 修复微信初次分享出错bug guxionghong
   * 新增图片像素最低阈值判断提醒 guxionghong

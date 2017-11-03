@@ -4,6 +4,25 @@
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-11-3
+* 修改商品详情不同产品不同显示的问题 zhangyuan
+* 推荐列表当产品为团购时，要显示产品原价 zhangyuan
+
+- 2017-11-2
+* 整理定位模块代码 guxionghong
+* 优化首屏加载逻辑 guxionghong
+* 修正部分安卓机布局可能变大问题 yerenming
+
+- 2017-10-31
+* 我的二维码分享逻辑修改 zhangyuan
+ 
+- 2017-10-30
+* 修正查看券码失效问题 yerenming
+* 修正订单列表切换可能获取不了数据bug yerenming
+* 修正小米6微信浏览器不支持flex的bug  yerenming
+* 优化退款信息提示 yerenming
+* 解决上传图片颠倒的问题 zhangyuan
+
 - 2017-10-27
 * 我的二维码页面根据设计稿重做  zhangyuan
 * 修改帮助与反馈文案 zhangyuan
