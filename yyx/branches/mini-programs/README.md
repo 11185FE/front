@@ -5,6 +5,12 @@
 参与人员：yerenming
 
 ## 修改记录
+- 2017-11-9
+* 使用新功能component重写部分组件 yerenming
+
+- 2017-11-7
+* 使用新功能web-view接入H5版邮印象，目前二次授权无法实现 yerenming
+
 - 2017-11-3
 * 处理框架升级的兼容性问题 yerenming
 

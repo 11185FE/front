@@ -1,9 +1,17 @@
 # 邮惠万家-h5
-- 修改日期：2017-11-3
+- 修改日期：2017-11-10
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-11-10
+* 修改东莞创维活动 zhangyuan
+
+- 2017-11-7
+* 优化调用支付速度 yerenming
+* 优化微信定位功能 yerenming
+* 优化买单功能 yerenming
+
 - 2017-11-3
 * 修改商品详情不同产品不同显示的问题 zhangyuan
 * 推荐列表当产品为团购时，要显示产品原价 zhangyuan

@@ -1,9 +1,27 @@
 # 邮印象 - h5版
-修改日期：2017-11-03
+修改日期：2017-11-10
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2017-11-10
+  * 下单页面新增手机号判断逻辑 guxionghong
+  * 新增二维码组件 guxionghong
+  * 新增 navigateTo bridge 方法 guxionghong
+  * 修复微店相关bug guxionghong
+
+- 2017-11-09
+  * 新增微店详情、微店管理页面 guxionghong
+
+- 2017-11-08
+  * 新增微店开通页面 guxionghong
+
+- 2017-11-07
+  * 新增用户手机绑定功能 guxionghong
+
+- 2017-11-06
+  * 研究微信传图sdk，无果，安卓机器都会显示模糊图 guxionghong
+
 - 2017-11-03
   * 安卓微信版尝试采用微信sdk选图方式，优化内存使用 guxionghong
 
