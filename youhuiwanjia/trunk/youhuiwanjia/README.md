@@ -1,9 +1,17 @@
 # 邮惠万家-h5
-- 修改日期：2017-11-10
+- 修改日期：2017-11-17
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-11-16
+* 增加下单可退提示 yerenming
+* 修改定位，定位失败时，不显示距离 zhangyuan
+
+- 2017-11-15
+* 优化counter与popMessage组件、增加下单限购条件、增加买单定位提示 yerenming
+* 修复商家筛选中的全城、智能排序未关联问题 zhangyuan
+
 - 2017-11-10
 * 修改东莞创维活动 zhangyuan
 

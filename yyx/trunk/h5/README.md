@@ -1,9 +1,18 @@
 # 邮印象 - h5版
-修改日期：2017-11-10
+修改日期：2017-11-17
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2017-11-17
+  * 研究书本翻页效果 guxinghong
+  * 添加用户地区来源识别逻辑 guxionghong
+
+- 2017-11-13
+  * 新增主动更新用户信息bridge方法 guxionghong
+  * 新增微店名二次修改功能 guxionghong
+  * 二维码组件新增logo跟导出图片功能 guxionghong
+
 - 2017-11-10
   * 下单页面新增手机号判断逻辑 guxionghong
   * 新增二维码组件 guxionghong
