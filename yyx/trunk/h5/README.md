@@ -1,9 +1,13 @@
 # 邮印象 - h5版
-修改日期：2017-11-17
+修改日期：2017-12-01
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+* 2017-12-01
+  * 重构路由懒加载模块 guxionghong
+  * 完成翻书效果组件 50% guxionghong
+  
 - 2017-11-17
   * 研究书本翻页效果 guxinghong
   * 添加用户地区来源识别逻辑 guxionghong

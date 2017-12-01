@@ -1,17 +1,23 @@
 # 邮惠万家 -h5
 
-* 修改日期：2017-11-17
+* 修改日期：2017-12-01
 * 进度：100%
 * 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
 
+* 2017-12-1
+- 修改库存不足提示逻辑 yerenming
+- 增加优惠买单退款流程 yerenming
+
+* 2017-11-30
+- 优惠退款问答页面 zhangyuan
+
 * 2017-11-22
-- 新增每日签到静态页  zhangyuan
+- 新增每日签到静态页 zhangyuan
 - 下单页面限制数量只能输入数字，非数字转为最少购买树 yerenming
 
 * 2017-11-21
-
 - 买单超过最大库存时，自动修正可购买数量 yerenming
 - 修改限购提示逻辑 yerenming
 
