@@ -1,13 +1,16 @@
 # 邮印象 - h5版
-修改日期：2017-12-01
+修改日期：2017-12-05
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+* 2017-12-05
+  * 切换新版公众号登录方式 guxionghong
+
 * 2017-12-01
   * 重构路由懒加载模块 guxionghong
   * 完成翻书效果组件 50% guxionghong
-  
+
 - 2017-11-17
   * 研究书本翻页效果 guxinghong
   * 添加用户地区来源识别逻辑 guxionghong
@@ -50,7 +53,7 @@
 - 2017-10-25
   * 新增错误日志统计功能 guxionghong
   * 新增订单退款、物流查询、订单确认等功能 guxionghong
-  
+
 - 2017-10-24
   * 新增使用帮助、免责声明页面 guxionghong
   * 新增长图作品在窄屏手机适配性  guxionghong
@@ -89,20 +92,20 @@
 
 - 2017-10-11
   * 新增免责声明页面及修改帮助页面文案 guxionghong
-  
+
 - 2017-10-09
   * 创建 邮印象 独立版本 guxionghong
 
 - 2017-09-29
   * 接入 安卓 hybrid 版本 guxionghong
-  
+
 - 2017-09-27
   * 修复版本迁移引起的主题馆商品相关bug guxionghong
   * 接入 ios hybrid 版本 guxionghong
 
 - 2017-09-26
   * 完善 native 交互代码 guxionghong
-  
+
 - 2017-09-25
   * 修改明信片不可选数量（固定1）逻辑 guxionghong
   * 新增福利卡下单最少10张逻辑 guxionghong
@@ -114,16 +117,16 @@
 
 - 2017-09-21
   * 新增我的福利卡页面 guxionghong
-  
+
 - 2017-09-20
   * 新增重新编辑我的作品 guxionghong
 
 - 2017-09-19
   * 新增 作品详情 删除、分享、复制功能按钮 guxionghong
-  
+
 - 2017-09-15
   * 重构Native基础交互库 guxionghong
-  
+
 - 2017-09-13
   * 重构基础网络库 guxionghong
 
@@ -152,10 +155,10 @@
 
 - 2017-09-04
   * 作品分享时不需要检测登录 guxionghong
-  
+
 - 2017-09-01
   * 调试作品购物车相关接口 guxionghong
-  
+
 - 2017-08-31
   * 修改我的作品页面逻辑 guxionghong
 

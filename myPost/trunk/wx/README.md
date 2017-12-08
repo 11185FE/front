@@ -1,9 +1,16 @@
 # 主题邮局- h5版
-修改日期：2017-10-20
+修改日期：2017-12-06
 进度：80%  
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2017-12-06
+  * 更新下载页样式 guxionghong
+
+- 2017-12-05
+  * 替换新logo及占位图 guxionghong
+  * 修复用户名过长显示bug  guxionghong
+
 - 2017-10-20
   * 新增下载引导页 guxionghong
   * 新增微信登录code重定向页面 guxionghong
@@ -11,7 +18,7 @@
 
 - 2017-10-11
   * 新增免责声明页面及修改帮助页面文案 guxionghong
-  
+
 - 2017-10-10
   * 地址编辑页新增头栏功能 guxionghong
   * 用户中心新增 我的收藏、待评价入口 guxionghong
@@ -26,14 +33,14 @@
 
 - 2017-09-29
   * 接入 安卓 hybrid 版本 guxionghong
-  
+
 - 2017-09-27
   * 修复版本迁移引起的主题馆商品相关bug guxionghong
   * 接入 ios hybrid 版本 guxionghong
 
 - 2017-09-26
   * 完善 native 交互代码 guxionghong
-  
+
 - 2017-09-25
   * 修改明信片不可选数量（固定1）逻辑 guxionghong
   * 新增福利卡下单最少10张逻辑 guxionghong
@@ -45,16 +52,16 @@
 
 - 2017-09-21
   * 新增我的福利卡页面 guxionghong
-  
+
 - 2017-09-20
   * 新增重新编辑我的作品 guxionghong
 
 - 2017-09-19
   * 新增 作品详情 删除、分享、复制功能按钮 guxionghong
-  
+
 - 2017-09-15
   * 重构Native基础交互库 guxionghong
-  
+
 - 2017-09-13
   * 重构基础网络库 guxionghong
 
@@ -83,10 +90,10 @@
 
 - 2017-09-04
   * 作品分享时不需要检测登录 guxionghong
-  
+
 - 2017-09-01
   * 调试作品购物车相关接口 guxionghong
-  
+
 - 2017-08-31
   * 修改我的作品页面逻辑 guxionghong
 
