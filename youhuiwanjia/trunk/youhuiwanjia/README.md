@@ -1,8 +1,8 @@
 # 邮惠万家 -h5
 
-* 修改日期：2017-12-08
-* 进度：100%
-* 参与人员：zhangyuan lixiaolong guxionghong yerenming
+- 修改日期：2017-12-08
+- 进度：100%
+- 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
 * 2017-12-8
