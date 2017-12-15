@@ -1,11 +1,11 @@
 # 官微-环邮中国 1期
-修改日期：2017-09-08
+修改日期：2017-12-13
 进度：100%  
-参与人员：chenzhaolong guxionghong wanglong liuhaoxing
+参与人员：chenzhaolong guxionghong wanglong
 
 ## 修改记录
-- 2017-09-07
-* 增加首页、城市页面引导指示 by liuhaoxing
+- 2017-12-13
+* 修复定位出错bug guxionghong
 
 - 2017-08-17
 * 修改多个页面细节 guxionghong
@@ -84,5 +84,3 @@ http://aptl5u.axshare.com
 
 - 接口文档
 http://www.doyoteam.com:8082/showdoc-master/index.php?s=/1&page_id=348
-
-

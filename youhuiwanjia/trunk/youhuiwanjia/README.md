@@ -1,10 +1,27 @@
 # 邮惠万家 -h5
 
-- 修改日期：2017-12-08
+- 修改日期：2017-12-15
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-12-15
+* 将全国版定位全部改成百度定位  zhangyuan
+
+- 2017-12-14
+* 更换全国版优选页面  zhangyuan
+
+- 2017-12-13
+* 修改退款原因状态值，与订单状态一致  yerenming
+* 体验版修改全国版  zhangyuan
+
+- 2017-12-12
+* 完成关键字搜索页面逻辑 zhangyuan
+
+- 2017-12-11
+* 完成优惠买单退款流程功能开发  yerenming
+* 接入关键字搜索接口 zhangyuan
+
 - 2017-12-8
 * 关键字搜索结果静态页面 zhangyuan
 
