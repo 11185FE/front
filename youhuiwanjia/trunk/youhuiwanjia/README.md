@@ -1,10 +1,17 @@
 # 邮惠万家 -h5
 
-- 修改日期：2017-12-15
+- 修改日期：2017-12-22
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-12-22
+*  给全国版有v-for的写法，添加key zhangyuan
+
+- 2017-12-21
+* 修改webpack，新增文件，各个js的编号也不会变 zhangyuan
+* 添加eruda，方便查看错误 zhangyuan
+
 - 2017-12-15
 * 将全国版定位全部改成百度定位  zhangyuan
 
