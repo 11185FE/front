@@ -1,9 +1,21 @@
 # 邮印象 - h5版
-修改日期：2017-12-05
+修改日期：2017-12-27
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+* 2017-12-27
+  * 去除订单列表、订单详情头栏 guxionghong
+
+* 2017-12-26
+  * 修改营销员统计业绩起始时间 guxionghong
+  * 修改审核失败重新编辑流程 guxionghong
+  * 新增重新编辑JSBridge接口 guxionghong
+  
+* 2017-12-25
+  * 订单列表、订单详情新增审核不通过状态 guxionghong
+  * 订单详情新增重新提交审核功能 guxionghong
+
 * 2017-12-05
   * 切换新版公众号登录方式 guxionghong
 

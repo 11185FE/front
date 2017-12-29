@@ -1,10 +1,17 @@
 # 邮惠万家 -h5
 
-- 修改日期：2017-12-22
+- 修改日期：2017-12-29
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-12-27
+* 新增优选页面跳转功能 guxionghong
+* 登录页面新增邮乐登录联动 guxionghong
+
+- 2017-12-25
+*  新增用户评论（结果）组件 zhangyuan
+
 - 2017-12-22
 *  给全国版有v-for的写法，添加key zhangyuan
 
