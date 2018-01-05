@@ -1,10 +1,13 @@
 # 邮惠万家 -h5
 
-- 修改日期：2017-12-29
+- 修改日期：2017-01-05
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2017-01-02
+* 新增商城订单跳转功能 zhangyuan
+
 - 2017-12-27
 * 新增优选页面跳转功能 guxionghong
 * 登录页面新增邮乐登录联动 guxionghong

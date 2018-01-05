@@ -1,9 +1,16 @@
 # 大微信活动-会员卡
-修改日期：2017-12-29
+修改日期：2018-01-05
 进度：0%  
 参与人员：chenzhaolong liuhaoxing
 
 ## 修改记录 
+- 2018-01-05
+* 新增会员卡已下架、会员卡已删除的情况判断 by liuhaoxing
+
+- 2018-01-03
+* 新增组建名获取功能 by liuhaoxing
+* 修改微信分享 by liuhaoxing
+
 - 2017-12-29
 * 解决微信分享安卓失效问题 by liuhaoxing
 * 解决微信登陆跳转失效问题 by liuhaoxing
