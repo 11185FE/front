@@ -1,11 +1,23 @@
 # 邮惠万家 -h5
 
-- 修改日期：2017-01-05
+- 修改日期：2018-01-12
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
-- 2017-01-02
+- 2018-01-11
+* 已评价的订单详情页显示评分 yerenming
+
+- 2018-01-10
+* image组件新增点击图片预览功能 zhangyuan
+* 修复评论换行功能 zhangyuan
+
+- 2018-01-08
+* 订单评价添加文字与图片功能 yerenming
+* 商品详情页新增用户评论 zhangyuan
+* 新增评论列表 zhangyuan
+
+- 2018-01-02
 * 新增商城订单跳转功能 zhangyuan
 
 - 2017-12-27
