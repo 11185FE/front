@@ -1,9 +1,29 @@
 # 邮印象 - h5版
-修改日期：2018-01-05
+修改日期：2018-01-19
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2018-01-19
+  * 修复审核不通过重新编辑流程 guxionghong
+  
+- 2018-01-17
+  * 福利卡下单新增线下支付 guxionghong
+  * 新增删除订单功能 guxionghong
+
+- 2018-01-15
+  * 春节活动上线 guxionghong
+  * 修复确认支付状态bug  guxionghong
+
+- 2018-01-11
+  * 新增春节活动抽奖页面 guxionghong
+  
+- 2018-01-10
+  * 完成春节活动主题页面逻辑 guxionghong
+
+- 2018-01-08
+  * 完成春节优惠券领取页面 guxionghong
+  
 - 2018-01-05
   * 调整新版邮印象与环邮中国相关交互 guxionghong
   * 增加新版通用优惠券领取页 guxionghong
