@@ -1,10 +1,13 @@
 # 邮惠万家 -h5
 
-- 修改日期：2018-01-19
+- 修改日期：2018-01-26
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2018-01-23
+* 新增邮乐退出登录功能 guxionghong
+
 - 2018-01-18
 * 将各接口添加openId参数 zhangyuan
 
