@@ -1,9 +1,14 @@
 # 官微-环邮中国 1期
-修改日期：2018-01-19
+修改日期：2018-02-02
 进度：100%  
 参与人员：chenzhaolong guxionghong wanglong
 
 ## 修改记录
+- 2018-01-30
+  * 多处页面新增公众号二维码 guxionghong
+  * 多处新增 “技术支持” 字样 guxionghong
+  * 修复明信片流程bug guxionghong
+
 - 2018-01-18
   * 部署生产环境，修复订单地址问题 guxionghong
   
@@ -98,4 +103,5 @@ http://aptl5u.axshare.com
 http://www.doyoteam.com:8082/showdoc-master/index.php?s=/1&page_id=348
 
 - 访问地址
+生产环境：http://cpweixin.dg11185.com/cpwx_html/travel-china/index.html#/index
 测试环境：http://www.doyoteam.com:8084/cpwx_html/travel-china/index.html#/index
