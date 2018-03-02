@@ -1,9 +1,16 @@
 # 官微-环邮中国 1期
-修改日期：2018-02-02
+修改日期：2018-03-02
 进度：100%  
 参与人员：chenzhaolong guxionghong wanglong
 
 ## 修改记录
+- 2018-02-28
+ * 新增建议反馈模块 guxionghong
+ * 修复小米mix等机型编辑状态页面缩小bug guxionghong
+
+- 2018-02-26
+ * 新增webpack多环境配置及实现实时刷新功能等 guxionghong
+ 
 - 2018-01-30
   * 多处页面新增公众号二维码 guxionghong
   * 多处新增 “技术支持” 字样 guxionghong
@@ -103,5 +110,6 @@ http://aptl5u.axshare.com
 http://www.doyoteam.com:8082/showdoc-master/index.php?s=/1&page_id=348
 
 - 访问地址
-生产环境：http://cpweixin.dg11185.com/cpwx_html/travel-china/index.html#/index
-测试环境：http://www.doyoteam.com:8084/cpwx_html/travel-china/index.html#/index
+生产首页：http://cpweixin.dg11185.com/cpwx_html/travel-china/index.html#/index
+测试首页：http://www.doyoteam.com:8084/cpwx_html/travel-china/index.html#/index
+测试助力页: http://www.doyoteam.com:8084/cpwx_html/travel-china/index.html#/invite?shareid=1b5e537db32a7cf939fbda91adc0dda7

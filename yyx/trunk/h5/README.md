@@ -1,9 +1,13 @@
 # 邮印象 - h5版
-修改日期：2018-02-02
+修改日期：2018-03-02
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2018-02-26
+ * 新增智能客服功能 guxionghong
+ * 修复智能客服相关bug guxionghong
+
 - 2018-01-31
   * 修复环邮中国对接环节，错误处理导致页面404bug guxionghong
   * 新增禁止环邮中国流程进入后的作品删除操作 guxionghong

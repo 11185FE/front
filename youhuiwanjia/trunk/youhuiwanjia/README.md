@@ -1,10 +1,13 @@
 # 邮惠万家 -h5
 
-- 修改日期：2018-02-02
+- 修改日期：2018-02-09
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+- 2018-02-07
+* 修改签到活动加分显示逻辑 zhangyuan
+
 - 2018-02-02
 * 新增签到活动逻辑，修改大转盘，砸金蛋活动 zhangyuan
 
