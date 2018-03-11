@@ -5,6 +5,9 @@
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
 ## 修改记录
+-20180305
+* 新增推荐有礼页面
+
 - 2018-02-07
 * 修改签到活动加分显示逻辑 zhangyuan
 
