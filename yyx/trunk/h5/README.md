@@ -1,9 +1,15 @@
 # 邮印象 - h5版
-修改日期：2018-03-02
+修改日期：2018-03-16
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2018-03-12
+ * 新增oss图片服务
+ 
+- 2018-03-07
+ * 修复手机号绑定，错误验证码仍提示绑定成功bug  guxionghong
+
 - 2018-02-26
  * 新增智能客服功能 guxionghong
  * 修复智能客服相关bug guxionghong
