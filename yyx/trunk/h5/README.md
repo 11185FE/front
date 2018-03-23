@@ -1,11 +1,20 @@
 # 邮印象 - h5版
-修改日期：2018-03-16
+修改日期：2018-03-23
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2018-03-22
+  * 修复使用帮助、免责声明头部声明 guxionghong
+  * 修改商品订单金额取值方式 guxionghong
+
+- 2018-03-19
+  * 部署生产环境 guxionghong
+  * 邮印象测试跟生产环境切换新域名 guxionghong
+  * 修改图片加载方式 guxionghong
+
 - 2018-03-12
- * 新增oss图片服务
+ * 新增oss图片服务 guxionghong
  
 - 2018-03-07
  * 修复手机号绑定，错误验证码仍提示绑定成功bug  guxionghong
