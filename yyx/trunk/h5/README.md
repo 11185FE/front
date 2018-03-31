@@ -1,9 +1,12 @@
 # 邮印象 - h5版
-修改日期：2018-03-23
+修改日期：2018-03-30
 进度：80%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2018-03-28
+  * 新增多人定制帮助引导功能 guxionghong
+
 - 2018-03-22
   * 修复使用帮助、免责声明头部声明 guxionghong
   * 修改商品订单金额取值方式 guxionghong
