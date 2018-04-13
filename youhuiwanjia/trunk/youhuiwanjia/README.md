@@ -1,10 +1,19 @@
 # 邮惠万家 -h5
-
-- 修改日期：2018-03-21
+- 修改日期：2018-04-13
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
+## 文档
+- http://yhwj.dg11185.com/index.html?pf=wx#/business/?_k=1835.000&eruda=true 线上
+- http://yhwjweb.doyoteam.com/yhwjweb/index.html#/business?yh_source=wx_yhwj&_k=282.000  测试
+
 ## 修改记录
+- 2018-04-11
+* 刪除公众号授权 zhangyuan
+
+- 2018-04-09
+* 新增第三方支付成功跳转页面 yerenming
+
 - 2018-03-21
 * 修改为第三方支付 yerenming
 
