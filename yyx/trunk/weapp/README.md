@@ -1,10 +1,19 @@
 # 邮印象 * 多人订制 * 微信小程序
 - 截止日期：
-- 修改日期：2018-04-28
-- 进度：70%
+- 修改日期：2018-05-04
+- 进度：90%
 - 参与人员：yerenming guxionghong
 
 ## 修改记录
+- 2018-05-04
+* 截图工具裁剪框默认最大边 yerenming
+
+- 2018-05-03
+* 修复授权bug yerenming
+* 增加oss图片压缩 yerenming
+* 增加loading效果 yerenming
+* 编辑完回到制作首页 yerenming
+
 - 2018-04-28
 * 完成多人订制功能 yerenming
 
