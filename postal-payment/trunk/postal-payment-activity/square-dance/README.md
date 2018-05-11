@@ -1,9 +1,15 @@
 # 微信邮舞
-- 修改日期：2018-05-04
+- 修改日期：2018-05-11
 - 进度：0%  
 - 参与人员：liuhaoxing huangshuyi
 
 ## 修改记录
+- 2018-05-11
+    * 对接接口 by liuhaoxing
+    * 接入百度地图 by liuhaoxing
+    * 完成跑马灯抽奖动画 by liuhaoxing
+    * 完成上传视频和预览封面图 by liuhaoxing
+    * 完成全网获奖名单、我的获奖名单功能开发 by huangshuyi
 - 2018-05-04
     * 对接接口 by liuhaoxing
     * 首页数据接入 by huangshuyi
