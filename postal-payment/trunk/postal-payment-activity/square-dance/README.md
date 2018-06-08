@@ -7,9 +7,9 @@
 - 2018-05-18
 * 获奖名单日期选项改为左右可以滑动 by huangshuyi
 * 修改提示样式和领奖地址显示规则 by huangshuyi
-* 安卓微信video播放后置顶问题
-* 首页数据缓存，记录浏览位置
-* 修改页面样式
+* 安卓微信video播放后置顶问题 by liuhaoxing
+* 首页数据缓存，记录浏览位置 by liuhaoxing
+* 修改页面样式 by liuhaoxing
 - 2018-05-11
 * 对接接口 by liuhaoxing
 * 接入百度地图 by liuhaoxing
