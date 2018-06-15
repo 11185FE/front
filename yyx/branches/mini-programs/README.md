@@ -1,186 +1,187 @@
-# 邮印象 * 微信小程序
-- 截止日期：
-- 修改日期：2017-12-1
-- 进度：80%
-- 参与人员：yerenming
+# 邮印象 - 微信小程序
+    截止日期：
+    修改日期：2017-12-1
+    进度：80%
+    参与人员：yerenming
 
 ## 修改记录
-- 2017-12-1
-* 优化单作品下单与购物车下单逻辑 yerenming
+* 2017-12-1
+- 优化单作品下单与购物车下单逻辑 yerenming
 
-- 2017-11-24
-* 优化截图功能 yerenming
-* 优化逻辑代码 yerenming
+* 2017-11-24
+- 优化截图功能 yerenming
+- 优化逻辑代码 yerenming
 
-- 2017-11-17
-* 完成组件重写
-* 完成购物车功能
-* 买单支持多作品下单
-* 修复部分已知的 bug
+* 2017-11-17
 
-- 2017-11-9
+- 完成组件重写
+- 完成购物车功能
+- 买单支持多作品下单
+- 修复部分已知的 bug
 
-* 使用新功能 component 重写部分组件 yerenming
+* 2017-11-9
 
-- 2017-11-7
+- 使用新功能 component 重写部分组件 yerenming
 
-* 使用新功能 web-view 接入 H5 版邮印象，目前二次授权无法实现 yerenming
+* 2017-11-7
 
-- 2017-11-3
+- 使用新功能 web-view 接入 H5 版邮印象，目前二次授权无法实现 yerenming
 
-* 处理框架升级的兼容性问题 yerenming
+* 2017-11-3
 
-- 2017-11-1
+- 处理框架升级的兼容性问题 yerenming
 
-* 接入购物车功能 yerenming
+* 2017-11-1
 
-- 2017-10-27
+- 接入购物车功能 yerenming
 
-* 完成订单列表、订单详情重构 yerenming
+* 2017-10-27
 
-- 2017-10-20
+- 完成订单列表、订单详情重构 yerenming
 
-* 增加购物车入口 yerenming
+* 2017-10-20
 
-- 2017-10-19
+- 增加购物车入口 yerenming
 
-* 根据接口修改购买流程，兼容优惠券、福利卡使用 yerenming
+* 2017-10-19
 
-- 2017-10-18
+- 根据接口修改购买流程，兼容优惠券、福利卡使用 yerenming
 
-* 兼容单图制作流程 yerenming
+* 2017-10-18
 
-- 2017-10-17
+- 兼容单图制作流程 yerenming
 
-* 修改多作品制作流程，支持修改即上传，减少等待时间 yerneming
+* 2017-10-17
 
-- 2017-10-13
+- 修改多作品制作流程，支持修改即上传，减少等待时间 yerneming
 
-* 重构作品制作流程，更换为微信 web 端方式 yerenming
-* 修复一些兼容性 bug yerenming
+* 2017-10-13
 
-- 2017-9-28
+- 重构作品制作流程，更换为微信 web 端方式 yerenming
+- 修复一些兼容性 bug yerenming
 
-* 选择图片时候压缩图片，避免图片过大崩溃问题 yerenming
+* 2017-9-28
 
-- 2017-9-27
+- 选择图片时候压缩图片，避免图片过大崩溃问题 yerenming
 
-* 增加模板详情页面逻辑 yerenming
+* 2017-9-27
 
-- 2017-9-25
+- 增加模板详情页面逻辑 yerenming
 
-* 完成下单使用福利卡逻辑 yerenming
+* 2017-9-25
 
-- 2017-9-21
+- 完成下单使用福利卡逻辑 yerenming
 
-* 完成下单使用优惠券逻辑 yerenming
-* 完成福利卡制作流程 yerenming
+* 2017-9-21
 
-- 2017-9-20
+- 完成下单使用优惠券逻辑 yerenming
+- 完成福利卡制作流程 yerenming
 
-* 完成优惠券列表页面及功能 yerenming
+* 2017-9-20
 
-- 2017-9-19
+- 完成优惠券列表页面及功能 yerenming
 
-* 完成下单支付功能 yerenming
+* 2017-9-19
 
-- 2017-9-14
+- 完成下单支付功能 yerenming
 
-* 完成 作品列表页面、支付页面重构 yerenming
+* 2017-9-14
 
-- 2017-9-8
+- 完成 作品列表页面、支付页面重构 yerenming
 
-* 完成 作品详情页面、下单页面、我的地址页面重构 yerenming
+* 2017-9-8
 
-- 2017-9-1
+- 完成 作品详情页面、下单页面、我的地址页面重构 yerenming
 
-* 完成产品分类页面、编辑页面、截图页面、列表页面重构 yerenming
-* 完成图片过大上传压缩功能 yerenming
+* 2017-9-1
 
-- 2017-8-25
+- 完成产品分类页面、编辑页面、截图页面、列表页面重构 yerenming
+- 完成图片过大上传压缩功能 yerenming
 
-* 使用 wepy 框架重构，已完成首页、分类页、选择页、裁剪工具 by yerenming
-* 新增图片渐变加载组件 by yerenming
+* 2017-8-25
 
-- 2017-8-18
+- 使用 wepy 框架重构，已完成首页、分类页、选择页、裁剪工具 by yerenming
+- 新增图片渐变加载组件 by yerenming
 
-* 重构截图逻辑，添加 300dpi 图片大小转换 by yerenming
+* 2017-8-18
 
-- 2017-8-5
+- 重构截图逻辑，添加 300dpi 图片大小转换 by yerenming
 
-* 重构截图逻辑，减少性能消耗 by yerenming
+* 2017-8-5
 
-- 2017-7-25
+- 重构截图逻辑，减少性能消耗 by yerenming
 
-* 完成马克杯制作 * 封面截取逻辑优化 by yerenming
+* 2017-7-25
 
-- 2017-7-24
+- 完成马克杯制作 - 封面截取逻辑优化 by yerenming
 
-* 完成我的作品页面 删除作品逻辑 by yerenming
-* 优化裁剪算法，最短边优先，图片增加边界判断 by yerenming
+* 2017-7-24
 
-- 2017-7-20
+- 完成我的作品页面 删除作品逻辑 by yerenming
+- 优化裁剪算法，最短边优先，图片增加边界判断 by yerenming
 
-* 修正微信官方升级导致 canvas 截图失败问题 by yerenming
+* 2017-7-20
 
-- 2017-7-19
+- 修正微信官方升级导致 canvas 截图失败问题 by yerenming
 
-* 完成我的作品页面逻辑 by yerenming
+* 2017-7-19
 
-- 2017-7-18
+- 完成我的作品页面逻辑 by yerenming
 
-* 完成我的地址页面逻辑 by yerenming
+* 2017-7-18
 
-- 2017-7-13
+- 完成我的地址页面逻辑 by yerenming
 
-* 重构首页，完善分类页 by yerenming
-* T-Shirt 订制添加参数选择 by yerenming
+* 2017-7-13
 
-- 2017-7-6
+- 重构首页，完善分类页 by yerenming
+- T-Shirt 订制添加参数选择 by yerenming
 
-* 添加首页、分类页面、马克杯制作、修正部分问题，屏蔽未完成的功能入口 by yerenming
+* 2017-7-6
 
-- 2017-5-19
+- 添加首页、分类页面、马克杯制作、修正部分问题，屏蔽未完成的功能入口 by yerenming
 
-* 根据需求所有接口取消 userid 参数，改用 token、cookie 保存 session 信息 yerenming
-* 照片书详情页翻页效果 yerenming
+* 2017-5-19
 
-- 2017-5-27
+- 根据需求所有接口取消 userid 参数，改用 token、cookie 保存 session 信息 yerenming
+- 照片书详情页翻页效果 yerenming
 
-* 完成照片书详情页面翻页效果开发 yerenming
+* 2017-5-27
 
-- 2017-6-3
+- 完成照片书详情页面翻页效果开发 yerenming
 
-* 优化照片书业务代码 yerenming
-* 我的订单页面开发 yerenming
+* 2017-6-3
 
-- 2017-6-10
+- 优化照片书业务代码 yerenming
+- 我的订单页面开发 yerenming
 
-* 完成我的订单查看流程开发 yerenming
-* 完成我的作品查看流程开发 yerenming
-* 优化业务代码 yerenming
+* 2017-6-10
 
-- 2017-6-17
+- 完成我的订单查看流程开发 yerenming
+- 完成我的作品查看流程开发 yerenming
+- 优化业务代码 yerenming
 
-* 杂志定制流程开发 yerenming
-* T-Shirt 定制流程开发 yerenming
-* 优化业务代码 yerenming
+* 2017-6-17
 
-- 2017-6-19
+- 杂志定制流程开发 yerenming
+- T-Shirt 定制流程开发 yerenming
+- 优化业务代码 yerenming
 
-* 整合定制流程代码 yerenming
-* 完成 T-Shirt 定制流程开发 yerenming
-* 完成杂志定制流程开发 yerenming
+* 2017-6-19
 
-- 2017-6-20
+- 整合定制流程代码 yerenming
+- 完成 T-Shirt 定制流程开发 yerenming
+- 完成杂志定制流程开发 yerenming
 
-* 完成海报定制流程开发 yerenming
-* 完成摆件定制流程开发 yerenming
+* 2017-6-20
 
-- 2017-6-24
+- 完成海报定制流程开发 yerenming
+- 完成摆件定制流程开发 yerenming
 
-* 完成 摆台、台历、海报 定制流程开发 yerenming
+* 2017-6-24
 
-- 2017-6-30
+- 完成 摆台、台历、海报 定制流程开发 yerenming
 
-* 修正编辑页面初始化时候闪现问题 yerenming
+* 2017-6-30
+
+- 修正编辑页面初始化时候闪现问题 yerenming
