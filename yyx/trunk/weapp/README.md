@@ -5,6 +5,10 @@
 - 参与人员：yerenming guxionghong
 
 ## 修改记录
+- 2018-06-29
+* 基本功能版本上线 yerenming
+* 根据测试反馈优化代码 yerenming
+
 - 2018-05-11
 * 名称”邮印象Team相册“更改为”邮印象 yerenming
 * 分享小程序卡片配图 yerenming

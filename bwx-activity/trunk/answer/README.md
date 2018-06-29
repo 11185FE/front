@@ -1,9 +1,19 @@
 # 大微信-答题对战
-- 修改日期：2018-06-22
+- 修改日期：2018-06-29
 - 进度：0%
 - 参与人员：liuhaoxing zhangyuan
 
 ## 修改记录
+- 2018-06-29
+* 修复内页设置背景不生效问题 by liuhaoxing
+- 2018-06-27
+* 添加多人PK顶部文案 by liuhaoxing
+* 修改首页样式，解决背景与问题重叠问题 by liuhaoxing
+* 修改链接跳转参数，解决刷新报错问题 by liuhaoxing
+* 修改排位对战，多人对战跳转链接（添加fightComId和dwxOrgNo） by zhangyuan
+- 2018-06-26
+* 修改活动描述的错误字段 by liuhaoxing
+* 修改排位对战准备页用户头像显示 by zhangyuan
 - 2018-06-20
 * 修改首页样式 by liuhaoxing
 * 在页面销毁之前清除定时器，避免返回之后还会跳去别的页面 by zhangyuan
