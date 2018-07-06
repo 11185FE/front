@@ -1,9 +1,23 @@
 # 大微信-答题对战
-- 修改日期：2018-06-29
+- 修改日期：2018-07-06
 - 进度：0%
 - 参与人员：liuhaoxing zhangyuan
 
 ## 修改记录
+- 2018-07-06
+* 修改分享对战结果时openid缺少的问题 by liuhaoxing
+* 修改点击分享按钮无效的问题 by liuhaoxing
+* 修改分享后根据不同角色打开链接，显示不同结果 by liuhaoxing
+* 修改对战人昵称显示不全问题 by liuhaoxing
+- 2018-07-05
+* 修复排位对战，用户胜利之后，弹窗抽奖的问题 by zhangyuan
+* 修复排位对战首页图标显示错误问题 by zhangyuan
+- 2018-07-04
+* 修改二维码不能长按识别的问题 by liuhaoxing
+* 修改分享提示错别字 by liuhaoxing
+* 修复排行数据榜数据不显示、用户未完游戏时的排行显示、没人玩游戏时的排行显示问题 by zhangyuan
+- 2018-07-03
+* 修改微信分享缩略图与后台设置不同的问题 by liuhaoxing
 - 2018-06-29
 * 修复内页设置背景不生效问题 by liuhaoxing
 - 2018-06-27

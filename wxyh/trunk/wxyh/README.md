@@ -1,5 +1,5 @@
 # 邮惠万家 -h5
-- 修改日期：2018-06-29
+- 修改日期：2018-07-06
 - 进度：100%
 - 参与人员：zhangyuan lixiaolong guxionghong yerenming
 
@@ -8,6 +8,10 @@
 - http://yhwjweb.doyoteam.com/yhwjweb/index.html#/business?yh_source=wx_yhwj&_k=282.000  测试
 
 ## 修改记录
+- 2018-07-03
+* 新增商品页面逻辑 zhangyuan
+- 2018-07-02
+* 新增多级联动选择组件 zhangyuan
 - 2018-06-29
 * 商家入驻接口调试 zhangyuan
 - 2018-06-28
