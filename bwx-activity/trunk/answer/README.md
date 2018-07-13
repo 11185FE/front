@@ -1,9 +1,16 @@
 # 大微信-答题对战
-- 修改日期：2018-07-06
+- 修改日期：2018-07-13
 - 进度：0%
 - 参与人员：liuhaoxing zhangyuan
 
 ## 修改记录
+- 2018-07-10
+* 修改input无法输入问题 by liuhaoxing
+* 修改弹窗出现时背景可滑动问题 by liuhaoxing
+* 修改组件分享链接错误问题 by liuhaoxing
+* 修改排位对战用户分享之后对战结果分享人头像姓名显示问题 by zhangyuan
+* 修改从排位跳转至抽奖，不获取用户信息,抽奖页分享的图片的地址链接 by zhangyuan
+* 排查偶现点击抽奖按钮不跳转抽奖页面问题（接口未返回抽奖地址）by zhangyuan
 - 2018-07-06
 * 修改分享对战结果时openid缺少的问题 by liuhaoxing
 * 修改点击分享按钮无效的问题 by liuhaoxing
