@@ -1,9 +1,23 @@
 # FoxTail
-- 修改日期：2018-07-27
+- 修改日期：2018-08-03
 - 进度：0%
 - 参与人员：yerenming guxionghong zhangyuan liuhaoxing
 
 ## 修改记录
+- 2018-08-03
+* 修改评论组件字数限制 liuhaoxing
+* 修改提醒页面跳转链接 liuhaoxing
+* 完成生成我的邮票长图功能 zhangyuan
+
+- 2018-08-01
+* 完成文章评论点赞功能 liuhaoxing
+* 完成邮票评论点赞功能 liuhaoxing
+* 完成邮票详情页 guxionghong
+* 完成邮票、设计师图库页 guxionghong
+* 完成赏邮页面功能 zhangyuan
+* 完成邮票小技巧页面功能 zhangyuan
+* 完成邮票知识页面功能 zhangyuan
+
 - 2018-07-27
 * 完成个人中心页面 guxionghong
 * 完成邮票分类页面 guxionghong
@@ -62,3 +76,4 @@
 
 ## 文档
 * http://www.doyoteam.com:8082/showdoc-master/index.php?s=/10&page_id=741
+
