@@ -1,9 +1,19 @@
 # FoxTail
-- 修改日期：2018-08-03
+- 修改日期：2018-08-10
 - 进度：0%
 - 参与人员：yerenming guxionghong zhangyuan liuhaoxing
 
 ## 修改记录
+- 2018-08-09
+* 搜索结果页分类添加跳转 zhangyuan
+* 搜索页、设计者主页点击关注与取消关注，总关注人数改变 zhangyuan
+* 修改文章组件地址跳转，分为跳转邮票详情，设计者主页，分类，文章详情 zhangyuan
+* 修复邮票详情图稿赏析滚动问题 guxionghong
+
+- 2018-08-06
+* 修改首页新邮预报 zhangyuan
+* 修复生成长图，有时失败的bug zhangyuan
+
 - 2018-08-03
 * 修改评论组件字数限制 liuhaoxing
 * 修改提醒页面跳转链接 liuhaoxing

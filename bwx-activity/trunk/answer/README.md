@@ -1,9 +1,13 @@
 # 大微信-答题对战
-- 修改日期：2018-07-13
+- 修改日期：2018-08-10
 - 进度：0%
 - 参与人员：liuhaoxing zhangyuan
 
 ## 修改记录
+- 2018-08-10
+* 增加检查时候有人参与过该次挑战判断 by liuhaoxing
+* 新增奖品自提方式 by liuhaoxing
+* 修改胜率计算方式 by liuhaoxing zhangyuan
 - 2018-07-10
 * 修改input无法输入问题 by liuhaoxing
 * 修改弹窗出现时背景可滑动问题 by liuhaoxing
