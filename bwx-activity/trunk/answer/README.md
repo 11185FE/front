@@ -1,23 +1,9 @@
 # 大微信-答题对战
-<<<<<<< HEAD
-- 修改日期：2018-08-17
-=======
 - 修改日期：2018-08-10
->>>>>>> f93e52175baa73cf01dc23304680a8319b6f0be4
 - 进度：0%
 - 参与人员：liuhaoxing zhangyuan
 
 ## 修改记录
-<<<<<<< HEAD
--2018-08-16
-* 修改答题中途退出，显示未有好友挑战问题 by liuhaoxing
-* 增加手机号好校验 by liuhaoxing
-* 修改活动已关闭的提示方式 by liuhaoxing
-* 线上抽奖地址修改，修改等待开始页面的动画 by zhangyuan
-- 2018-08-15
-* 开放抽奖功能 by zhangyuan
-=======
->>>>>>> f93e52175baa73cf01dc23304680a8319b6f0be4
 - 2018-08-10
 * 增加检查时候有人参与过该次挑战判断 by liuhaoxing
 * 新增奖品自提方式 by liuhaoxing
