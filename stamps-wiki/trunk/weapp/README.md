@@ -1,9 +1,22 @@
 # FoxTail
-- 修改日期：2018-08-10
+- 修改日期：2018-08-24
 - 进度：0%
 - 参与人员：yerenming guxionghong zhangyuan liuhaoxing
 
 ## 修改记录
+- 2018-08-24
+* 修改首页搜索框旁相机按钮的跳转 zhangyuan
+* 识别页面增加返回功能 zhangyuan
+* 修复首页评论数显示不正确问题 zhangyuan
+* 新增空数据组件 zhangyuan
+* 修复搜索结果页重新搜索旧数据重复bug zhangyuan
+* 给评论、提醒、收藏、关注、我的邮票页添加无数据显示情况 zhangyuan
+
+- 2018-08-23
+* 修复收藏页面 relateID 使用错误问题 guxionghong
+* 修改提醒、评论页面邮票相关type跳转链接 guxionghong
+* 修复邮票分类列表数据重复bug  guxionghong
+
 - 2018-08-09
 * 搜索结果页分类添加跳转 zhangyuan
 * 搜索页、设计者主页点击关注与取消关注，总关注人数改变 zhangyuan
