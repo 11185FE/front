@@ -1,9 +1,15 @@
 # 邮印象 - h5版
-修改日期：2018-07-13
+修改日期：2018-08-31
 进度：100%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2018-08-31
+  * 新增支持微信选图功能
+  * 重构 canvas 渲染逻辑
+  * 重构作品图片保存逻辑
+  * 修复oss图片上传bug
+  
 - 2018-07-13
   * 更新npm包，修复安卓机图片缩放无限放大bug
 
@@ -529,3 +535,5 @@
 - [主题邮局 接口文档](http://118.178.128.63:8030/projects/api/wiki)
 
 - [邮印象 接口文档](http://118.178.128.63:8030/projects/mypost-assamblly/wiki/邮印象接口文档)
+
+- [测试环境](wx.yyx.doyoteam.com/weixin/#/custom)
