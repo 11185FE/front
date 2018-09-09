@@ -1,9 +1,17 @@
-# FoxTail
-- 修改日期：2018-08-28
+# 邮票百科
+- 修改日期：2018-09-07
 - 进度：0%
 - 参与人员：yerenming guxionghong zhangyuan liuhaoxing
 
 ## 修改记录
+- 2018-09-07
+* 新增设计者类页面 liuhaoxing
+* 邮票分类页面增加分类选项，对小分类做相应逻辑处理 zhangyuan
+
+- 2018-09-05
+* 更改识别邮票逻辑 yerenming
+* 邮票列表页添加至号 yerenming
+
 - 2018-08-28
 * 修改个人首页样式 guxionghong
 
@@ -105,5 +113,5 @@
 * 新增邮票赏析页面 by yerenming
 
 ## 文档
-* http://www.doyoteam.com:8082/showdoc-master/index.php?s=/10&page_id=741
+* http://www.doyoteam.com:8082/index.php?s=/home/item/pwd/item_id/10
 

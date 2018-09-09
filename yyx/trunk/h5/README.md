@@ -1,9 +1,14 @@
 # 邮印象 - h5版
-修改日期：2018-08-31
+修改日期：2018-09-07
 进度：100%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2018-09-07
+  * 新增修正图片旋转信息方法 guxionghong
+  * 兼容 ios、安卓下，缩略图 exif 信息差异问题 guxionghong
+  * 修复 ios 下图片旋转后裁剪信息错误 bug guxionghong
+
 - 2018-08-31
   * 新增支持微信选图功能
   * 重构 canvas 渲染逻辑
