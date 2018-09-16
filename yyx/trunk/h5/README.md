@@ -1,9 +1,17 @@
 # 邮印象 - h5版
-修改日期：2018-09-07
+修改日期：2018-09-14
 进度：100%
 参与人员：guxionghong zhangyuan yerenming
 
 ## 修改记录
+- 2018-09-12
+  * 修复图片上传失败回滚后未重新抛出异常bug guxionghong
+  * 多图静默上传新增超时时间20s guxionghong
+
+- 2018-09-11
+  * 修复多图编辑时莫名出现loading bug guxionghong
+  * 多图制作数据保存出错时新增回滚逻辑 guxionghong
+
 - 2018-09-07
   * 新增修正图片旋转信息方法 guxionghong
   * 兼容 ios、安卓下，缩略图 exif 信息差异问题 guxionghong
