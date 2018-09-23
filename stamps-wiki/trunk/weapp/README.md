@@ -1,9 +1,13 @@
 # 邮票百科
-- 修改日期：2018-09-07
+- 修改日期：2018-09-22
 - 进度：0%
 - 参与人员：yerenming guxionghong zhangyuan liuhaoxing
 
 ## 修改记录
+- 2018-09-20
+* 完成赏邮页面开发 yerenming
+* 根据产品要求完成二次优化功能 yerenming
+
 - 2018-09-07
 * 新增设计者类页面 liuhaoxing
 * 邮票分类页面增加分类选项，对小分类做相应逻辑处理 zhangyuan
